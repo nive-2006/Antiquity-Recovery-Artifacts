@@ -1,0 +1,31 @@
+test_image,rank,similarity,matched_image_name,matched_image_path
+perumal.jpg,1,0.701553,30720840965_1df8b7280f_m.jpg,images/30720840965_1df8b7280f_m.jpg
+perumal.jpg,2,0.7011,14534466125_8ea5129c6c_m.jpg,images/14534466125_8ea5129c6c_m.jpg
+perumal.jpg,3,0.694995,30352407971_35aed13575_m.jpg,images/30352407971_35aed13575_m.jpg
+perumal.jpg,4,0.68742,left_flip_CholaSculptures_resized_images_shiva_musc3a9e_guimet_26971.jpg.jpg,images/left_flip_CholaSculptures_resized_images_shiva_musc3a9e_guimet_26971.jpg.jpg
+perumal.jpg,5,0.669327,29990634420_e4b927c557_m.jpg,images/29990634420_e4b927c557_m.jpg
+perumal.jpg,6,0.667683,26475049545_0829695f13_m.jpg,images/26475049545_0829695f13_m.jpg
+perumal.jpg,7,0.666097,newstand (114).jpg,images/newstand (114).jpg
+perumal.jpg,8,0.665571,temple_in_india_15904.jpg,images/temple_in_india_15904.jpg
+perumal.jpg,9,0.663816,18019739314_2961041dc2_m.jpg,images/18019739314_2961041dc2_m.jpg
+perumal.jpg,10,0.658225,newsit (101).jpg,images/newsit (101).jpg
+lakshmi.jpg,1,0.788393,newsit (105).jpg,images/newsit (105).jpg
+lakshmi.jpg,2,0.785032,newsit (181).jpg,images/newsit (181).jpg
+lakshmi.jpg,3,0.773583,newsit (114).jpg,images/newsit (114).jpg
+lakshmi.jpg,4,0.760597,newsit (137).jpg,images/newsit (137).jpg
+lakshmi.jpg,5,0.760157,newsit (1).png,images/newsit (1).png
+lakshmi.jpg,6,0.759929,1720b1fc28a4796fdcb39de55f1c7fb0.jpg,images/1720b1fc28a4796fdcb39de55f1c7fb0.jpg
+lakshmi.jpg,7,0.759086,newsit (169).jpg,images/newsit (169).jpg
+lakshmi.jpg,8,0.758763,207d008782be892c08ffd792dd562185.jpg,images/207d008782be892c08ffd792dd562185.jpg
+lakshmi.jpg,9,0.755176,newsit (141).jpg,images/newsit (141).jpg
+lakshmi.jpg,10,0.754854,left_flip_temple_in_india_14353.jpg,images/left_flip_temple_in_india_14353.jpg
+murugar.jpg,1,0.731917,left_flip_temple_in_india_10981.jpg,images/left_flip_temple_in_india_10981.jpg
+murugar.jpg,2,0.712278,left_flip_dravidian_hoysalas_72.jpg,images/left_flip_dravidian_hoysalas_72.jpg
+murugar.jpg,3,0.691821,1faae1a82c8053af70ead6c120c92db4.jpg,images/1faae1a82c8053af70ead6c120c92db4.jpg
+murugar.jpg,4,0.691609,newsit (1).png,images/newsit (1).png
+murugar.jpg,5,0.687242,left_flip_temple_in_india_12708.jpg,images/left_flip_temple_in_india_12708.jpg
+murugar.jpg,6,0.686431,Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2843%29_%2836787608833%29.jpg,images/Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2843%29_%2836787608833%29.jpg
+murugar.jpg,7,0.686162,newsit (11).jpg,images/newsit (11).jpg
+murugar.jpg,8,0.678236,left_flip_BrihadisvaraTemple_resized_images_rajarajesvaram_temple_32-10a.jpg.jpg,images/left_flip_BrihadisvaraTemple_resized_images_rajarajesvaram_temple_32-10a.jpg.jpg
+murugar.jpg,9,0.668678,left_flip_temple_in_india_834.jpg,images/left_flip_temple_in_india_834.jpg
+murugar.jpg,10,0.667402,Lord_Vishnu_3.jpg,images/Lord_Vishnu_3.jpg

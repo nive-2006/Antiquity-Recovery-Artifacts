@@ -1,0 +1,62 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build files
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large ML files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+
+# Local data
+data/
+datasets/
+uploads/
+
+# Heritage image gallery
+ai_microservice/images/
+
+# ML datasets
+ai_microservice/datasets/
+ai_microservice/data/
+
+# Generated embeddings/indexes
+*.npy
+*.index
+*.pkl
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors

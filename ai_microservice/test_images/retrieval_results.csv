@@ -1,0 +1,31 @@
+test_image,rank,faiss_index,similarity,matched_image_name,matched_image_path,file_exists
+perumal.jpg,1,15394,0.14515,newstand (112).jpg,images/newstand (112).jpg,True
+perumal.jpg,2,66,0.144035,14534466125_8ea5129c6c_m.jpg,images/14534466125_8ea5129c6c_m.jpg,True
+perumal.jpg,3,100,0.143392,18019739314_2961041dc2_m.jpg,images/18019739314_2961041dc2_m.jpg,True
+perumal.jpg,4,19384,0.143167,temple_in_india_15904.jpg,images/temple_in_india_15904.jpg,True
+perumal.jpg,5,10805,0.143078,left_flip_CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,images/left_flip_CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,True
+perumal.jpg,6,701,0.142013,CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,images/CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,True
+perumal.jpg,7,15397,0.141113,newstand (115).jpg,images/newstand (115).jpg,True
+perumal.jpg,8,15471,0.139195,newstand (180).jpg,images/newstand (180).jpg,True
+perumal.jpg,9,209,0.138124,30352407971_35aed13575_m.jpg,images/30352407971_35aed13575_m.jpg,True
+perumal.jpg,10,202,0.136061,29990634420_e4b927c557_m.jpg,images/29990634420_e4b927c557_m.jpg,True
+lakshmi.jpg,1,124,0.098248,207d008782be892c08ffd792dd562185.jpg,images/207d008782be892c08ffd792dd562185.jpg,True
+lakshmi.jpg,2,16,0.082499,0bebaa513b416fa712960fe103d5905a.jpg,images/0bebaa513b416fa712960fe103d5905a.jpg,True
+lakshmi.jpg,3,15368,0.075702,newsit (181).jpg,images/newsit (181).jpg,True
+lakshmi.jpg,4,12596,0.063568,left_flip_temple_in_india_157.jpg,images/left_flip_temple_in_india_157.jpg,True
+lakshmi.jpg,5,186,0.062865,27568170375_9ea5215114_m.jpg,images/27568170375_9ea5215114_m.jpg,True
+lakshmi.jpg,6,15343,0.061638,newsit (159).jpg,images/newsit (159).jpg,True
+lakshmi.jpg,7,15412,0.061433,newstand (128).jpg,images/newstand (128).jpg,True
+lakshmi.jpg,8,15294,0.061137,newsit (114).jpg,images/newsit (114).jpg,True
+lakshmi.jpg,9,15391,0.061103,newstand (11).jpg,images/newstand (11).jpg,True
+lakshmi.jpg,10,15363,0.060884,newsit (177).jpg,images/newsit (177).jpg,True
+murugar.jpg,1,569,0.176266,CholaArchitecture_resized_images_11th_12th_century_chaya_someshwara_temple2c_panagal_telangana_india_-_16.jpg.jpg,images/CholaArchitecture_resized_images_11th_12th_century_chaya_someshwara_temple2c_panagal_telangana_india_-_16.jpg.jpg,True
+murugar.jpg,2,13590,0.171211,left_flip_temple_in_india_9_392.jpg,images/left_flip_temple_in_india_9_392.jpg,True
+murugar.jpg,3,13567,0.167888,left_flip_temple_in_india_9_251.jpg,images/left_flip_temple_in_india_9_251.jpg,True
+murugar.jpg,4,13044,0.166983,left_flip_temple_in_india_5047.jpg,images/left_flip_temple_in_india_5047.jpg,True
+murugar.jpg,5,11500,0.165537,left_flip_VirupakshaTemple_resized_images_pattadakal_47.jpg.jpg,images/left_flip_VirupakshaTemple_resized_images_pattadakal_47.jpg.jpg,True
+murugar.jpg,6,20199,0.16531,temple_in_india_8_172.jpg,images/temple_in_india_8_172.jpg,True
+murugar.jpg,7,20359,0.165169,temple_in_india_9_279.jpg,images/temple_in_india_9_279.jpg,True
+murugar.jpg,8,5651,0.164877,down_flip_temple_in_india_2159.jpg,images/down_flip_temple_in_india_2159.jpg,True
+murugar.jpg,9,19839,0.16481,temple_in_india_5430.jpg,images/temple_in_india_5430.jpg,True
+murugar.jpg,10,7229,0.164165,down_temple_in_india_17329.jpg,images/down_temple_in_india_17329.jpg,True

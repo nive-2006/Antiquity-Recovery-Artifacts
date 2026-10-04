@@ -1,0 +1,272 @@
+[
+  {
+    "test_image": "perumal.jpg",
+    "rank": 1,
+    "faiss_index": 15394,
+    "similarity": 0.14515,
+    "matched_image_name": "newstand (112).jpg",
+    "matched_image_path": "images/newstand (112).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 2,
+    "faiss_index": 66,
+    "similarity": 0.144035,
+    "matched_image_name": "14534466125_8ea5129c6c_m.jpg",
+    "matched_image_path": "images/14534466125_8ea5129c6c_m.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 3,
+    "faiss_index": 100,
+    "similarity": 0.143392,
+    "matched_image_name": "18019739314_2961041dc2_m.jpg",
+    "matched_image_path": "images/18019739314_2961041dc2_m.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 4,
+    "faiss_index": 19384,
+    "similarity": 0.143167,
+    "matched_image_name": "temple_in_india_15904.jpg",
+    "matched_image_path": "images/temple_in_india_15904.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 5,
+    "faiss_index": 10805,
+    "similarity": 0.143078,
+    "matched_image_name": "left_flip_CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg",
+    "matched_image_path": "images/left_flip_CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 6,
+    "faiss_index": 701,
+    "similarity": 0.142013,
+    "matched_image_name": "CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg",
+    "matched_image_path": "images/CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 7,
+    "faiss_index": 15397,
+    "similarity": 0.141113,
+    "matched_image_name": "newstand (115).jpg",
+    "matched_image_path": "images/newstand (115).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 8,
+    "faiss_index": 15471,
+    "similarity": 0.139195,
+    "matched_image_name": "newstand (180).jpg",
+    "matched_image_path": "images/newstand (180).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 9,
+    "faiss_index": 209,
+    "similarity": 0.138124,
+    "matched_image_name": "30352407971_35aed13575_m.jpg",
+    "matched_image_path": "images/30352407971_35aed13575_m.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "perumal.jpg",
+    "rank": 10,
+    "faiss_index": 202,
+    "similarity": 0.136061,
+    "matched_image_name": "29990634420_e4b927c557_m.jpg",
+    "matched_image_path": "images/29990634420_e4b927c557_m.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 1,
+    "faiss_index": 124,
+    "similarity": 0.098248,
+    "matched_image_name": "207d008782be892c08ffd792dd562185.jpg",
+    "matched_image_path": "images/207d008782be892c08ffd792dd562185.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 2,
+    "faiss_index": 16,
+    "similarity": 0.082499,
+    "matched_image_name": "0bebaa513b416fa712960fe103d5905a.jpg",
+    "matched_image_path": "images/0bebaa513b416fa712960fe103d5905a.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 3,
+    "faiss_index": 15368,
+    "similarity": 0.075702,
+    "matched_image_name": "newsit (181).jpg",
+    "matched_image_path": "images/newsit (181).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 4,
+    "faiss_index": 12596,
+    "similarity": 0.063568,
+    "matched_image_name": "left_flip_temple_in_india_157.jpg",
+    "matched_image_path": "images/left_flip_temple_in_india_157.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 5,
+    "faiss_index": 186,
+    "similarity": 0.062865,
+    "matched_image_name": "27568170375_9ea5215114_m.jpg",
+    "matched_image_path": "images/27568170375_9ea5215114_m.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 6,
+    "faiss_index": 15343,
+    "similarity": 0.061638,
+    "matched_image_name": "newsit (159).jpg",
+    "matched_image_path": "images/newsit (159).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 7,
+    "faiss_index": 15412,
+    "similarity": 0.061433,
+    "matched_image_name": "newstand (128).jpg",
+    "matched_image_path": "images/newstand (128).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 8,
+    "faiss_index": 15294,
+    "similarity": 0.061137,
+    "matched_image_name": "newsit (114).jpg",
+    "matched_image_path": "images/newsit (114).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 9,
+    "faiss_index": 15391,
+    "similarity": 0.061103,
+    "matched_image_name": "newstand (11).jpg",
+    "matched_image_path": "images/newstand (11).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "lakshmi.jpg",
+    "rank": 10,
+    "faiss_index": 15363,
+    "similarity": 0.060884,
+    "matched_image_name": "newsit (177).jpg",
+    "matched_image_path": "images/newsit (177).jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 1,
+    "faiss_index": 569,
+    "similarity": 0.176266,
+    "matched_image_name": "CholaArchitecture_resized_images_11th_12th_century_chaya_someshwara_temple2c_panagal_telangana_india_-_16.jpg.jpg",
+    "matched_image_path": "images/CholaArchitecture_resized_images_11th_12th_century_chaya_someshwara_temple2c_panagal_telangana_india_-_16.jpg.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 2,
+    "faiss_index": 13590,
+    "similarity": 0.171211,
+    "matched_image_name": "left_flip_temple_in_india_9_392.jpg",
+    "matched_image_path": "images/left_flip_temple_in_india_9_392.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 3,
+    "faiss_index": 13567,
+    "similarity": 0.167888,
+    "matched_image_name": "left_flip_temple_in_india_9_251.jpg",
+    "matched_image_path": "images/left_flip_temple_in_india_9_251.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 4,
+    "faiss_index": 13044,
+    "similarity": 0.166983,
+    "matched_image_name": "left_flip_temple_in_india_5047.jpg",
+    "matched_image_path": "images/left_flip_temple_in_india_5047.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 5,
+    "faiss_index": 11500,
+    "similarity": 0.165537,
+    "matched_image_name": "left_flip_VirupakshaTemple_resized_images_pattadakal_47.jpg.jpg",
+    "matched_image_path": "images/left_flip_VirupakshaTemple_resized_images_pattadakal_47.jpg.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 6,
+    "faiss_index": 20199,
+    "similarity": 0.16531,
+    "matched_image_name": "temple_in_india_8_172.jpg",
+    "matched_image_path": "images/temple_in_india_8_172.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 7,
+    "faiss_index": 20359,
+    "similarity": 0.165169,
+    "matched_image_name": "temple_in_india_9_279.jpg",
+    "matched_image_path": "images/temple_in_india_9_279.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 8,
+    "faiss_index": 5651,
+    "similarity": 0.164877,
+    "matched_image_name": "down_flip_temple_in_india_2159.jpg",
+    "matched_image_path": "images/down_flip_temple_in_india_2159.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 9,
+    "faiss_index": 19839,
+    "similarity": 0.16481,
+    "matched_image_name": "temple_in_india_5430.jpg",
+    "matched_image_path": "images/temple_in_india_5430.jpg",
+    "file_exists": true
+  },
+  {
+    "test_image": "murugar.jpg",
+    "rank": 10,
+    "faiss_index": 7229,
+    "similarity": 0.164165,
+    "matched_image_name": "down_temple_in_india_17329.jpg",
+    "matched_image_path": "images/down_temple_in_india_17329.jpg",
+    "file_exists": true
+  }
+]
