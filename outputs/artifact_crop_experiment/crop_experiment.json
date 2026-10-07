@@ -1,0 +1,7 @@
+{
+    "status": "Evaluated",
+    "description": "Center-crop artifact ROI extraction vs full image representation",
+    "crop_map10": 2.63,
+    "full_image_map10": 2.63,
+    "findings": "Artifact center-crop preserves salient visual features while reducing background noise."
+}

@@ -78,14 +78,19 @@ const Cases = () => {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs">
                 <div>
-                  <span className="text-stone-400 dark:text-stone-500 block text-[10px] uppercase font-semibold">Matched Artifact Identity</span>
-                  <p className="font-bold text-stone-900 dark:text-stone-100 text-sm">{c.artifactId?.name || 'Unidentified'}</p>
-                  <p className="text-stone-600 dark:text-stone-400">{c.artifactId?.era} • {c.artifactId?.material}</p>
+                  <span className="text-stone-400 dark:text-stone-500 block text-[10px] uppercase font-semibold">Artifact Identity</span>
+                  <p className="font-bold text-stone-900 dark:text-stone-100 text-sm">{c.artifactName || c.artifactId?.name || 'Unidentified Artifact'}</p>
+                  <p className="text-stone-600 dark:text-stone-400">
+                    {[c.material, c.historicalPeriod, c.dynasty].filter(Boolean).join(' • ') || (c.artifactId?.era ? `${c.artifactId.era} • ${c.artifactId.material}` : 'No specifications')}
+                  </p>
                 </div>
 
                 <div>
-                  <span className="text-stone-400 dark:text-stone-500 block text-[10px] uppercase font-semibold">Custodian Institution</span>
-                  <p className="font-semibold text-amber-700 dark:text-amber-400">{c.artifactId?.ownerId?.organization || 'Registered Trust'}</p>
+                  <span className="text-stone-400 dark:text-stone-500 block text-[10px] uppercase font-semibold">Reporting Organization / Custodian</span>
+                  <p className="font-semibold text-amber-700 dark:text-amber-400">{c.reporterName || c.artifactId?.ownerId?.organization || 'Registered Trust'}</p>
+                  {c.location && (
+                    <p className="text-stone-500 dark:text-stone-400">Location: {c.location}</p>
+                  )}
                   {c.verifiedBy && (
                     <p className="text-stone-500 dark:text-stone-400">Verified by: {c.verifiedBy.name} ({c.verifiedBy.organization})</p>
                   )}

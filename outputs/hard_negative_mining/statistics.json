@@ -1,0 +1,7 @@
+{
+    "training_epochs": 15,
+    "labeled_train_samples": 738,
+    "hard_negatives_mined_per_epoch": 736,
+    "final_triplet_loss": 0.4072,
+    "checkpoint": "checkpoints/best_model.pt"
+}

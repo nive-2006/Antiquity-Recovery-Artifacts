@@ -10,7 +10,7 @@ const Landing = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await api.get('/artifacts/search?q=');
+        const res = await api.get('/api/cases');
         setFeatured(res.data.slice(0, 4));
       } catch (err) {
         console.error('Landing fetch error:', err);

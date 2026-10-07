@@ -1,0 +1,45 @@
+{
+    "dataset": {
+        "total_queries": 100,
+        "valid_queries": 100,
+        "excluded_leakage": 0
+    },
+    "model": {
+        "backbone": "facebook/dinov2-base",
+        "backbone_embedding_dimension": 768,
+        "projection_head": "768-512-256",
+        "projection_output_dimension": 256,
+        "trainable_parameters": 525056,
+        "checkpoint": "C:\\Users\\Dell\\OneDrive\\Desktop\\pep-project-2\\pep-project-2\\ai_microservice\\data\\best_projection_head.pt"
+    },
+    "reference_database": {
+        "image_count": 20399,
+        "faiss_dimension": 256
+    },
+    "retrieval_metrics": {
+        "trained_model_256d": {
+            "recall_at_1": 8.0,
+            "recall_at_5": 23.0,
+            "recall_at_10": 33.0,
+            "precision_at_1": 8.0,
+            "precision_at_5": 8.2,
+            "precision_at_10": 7.7,
+            "map_at_10": 13.56
+        },
+        "baseline_dinov2_768d": {
+            "recall_at_1": 14.0,
+            "recall_at_5": 29.0,
+            "recall_at_10": 42.0,
+            "precision_at_1": 14.0,
+            "precision_at_5": 8.4,
+            "precision_at_10": 7.8,
+            "map_at_10": 18.62
+        }
+    },
+    "classification_metrics": "NOT CALCULATED \u2014 reliable ground truth unavailable.",
+    "baseline_comparison": {
+        "baseline_map10": 18.62,
+        "trained_map10": 13.56,
+        "delta_map10": -5.06
+    }
+}

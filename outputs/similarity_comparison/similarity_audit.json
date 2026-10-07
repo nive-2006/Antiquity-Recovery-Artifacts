@@ -1,0 +1,10 @@
+{
+    "similarity_metric": "Cosine Similarity via L2-Normalized Vectors + FAISS IndexFlatIP",
+    "reference_embeddings_normalized": true,
+    "query_embeddings_normalized": true,
+    "l2_norm_check": {
+        "dinov2_768d_norm": 0.9999999403953552,
+        "projection_256d_norm": 1.0
+    },
+    "recommendation": "Preserve explicit L2 normalization before FAISS IndexFlatIP search to ensure accurate Cosine Similarity measurement."
+}

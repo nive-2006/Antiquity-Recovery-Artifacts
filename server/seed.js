@@ -20,14 +20,14 @@ const sampleArtifacts = [
     dimensions: '112 cm x 85 cm x 30 cm',
     inscriptionText: 'Dedicated to Kapaleeshwarar Temple by Queen Sembiyan Mahadevi',
     images: [
-      { url: 'https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?auto=format&fit=crop&w=800&q=80', angle: 'front' },
-      { url: 'https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80', angle: 'back' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Chola_bronze_Nataraja_Tamil_Nadu_11th_century.jpg/640px-Chola_bronze_Nataraja_Tamil_Nadu_11th_century.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Consecrated at Temple', date: '985 CE', location: 'Thanjavur, Tamil Nadu', note: 'Recorded in temple stone inscriptions' },
       { event: 'Logged in National Registry', date: '2021-03-15', location: 'ASI Chennai Circle', note: 'Digital 3D mesh scanning completed' }
     ],
-    status: 'stolen'
+    status: 'stolen',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1002',
@@ -38,12 +38,13 @@ const sampleArtifacts = [
     dimensions: '3.4 cm x 3.4 cm x 1.4 cm',
     inscriptionText: 'Standard Indus Script symbols (5 glyphs)',
     images: [
-      { url: 'https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pashupati_seal.jpg/640px-Pashupati_seal.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Excavated', date: '1928', location: 'Mohenjo-daro site', note: 'Discovered during John Marshall expedition' }
     ],
-    status: 'registered'
+    status: 'registered',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1003',
@@ -54,12 +55,13 @@ const sampleArtifacts = [
     dimensions: '90 cm x 60 cm x 25 cm',
     inscriptionText: 'Kharosthi script donor inscription at pedestal base',
     images: [
-      { url: 'https://images.unsplash.com/photo-1567157577867-05ccb1388e66?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Seated_Buddha_from_Gandhara.jpg/640px-Seated_Buddha_from_Gandhara.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Museum Acquisition', date: '1954', location: 'New Delhi National Museum', note: 'Catalog ID NM-4872' }
     ],
-    status: 'match_pending'
+    status: 'match_pending',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1004',
@@ -70,12 +72,13 @@ const sampleArtifacts = [
     dimensions: '145 cm x 70 cm x 40 cm',
     inscriptionText: 'Signed by master sculptor Dasoja of Balligavi',
     images: [
-      { url: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'http://localhost:8000/api/heritage/images/01_Madanika_at_Chennakeshava_Temple.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Temple Installation', date: '1121 CE', location: 'Hoysaleswara Temple', note: 'Commissioned by King Vishnuvardhana' }
     ],
-    status: 'verified'
+    status: 'verified',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1005',
@@ -86,12 +89,13 @@ const sampleArtifacts = [
     dimensions: '2.1 cm diameter, 7.8 grams',
     inscriptionText: 'Sanskrit Brahmi legend: Lyrist Type (Apratirathah)',
     images: [
-      { url: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SamudraguptaCoinLyristType.jpg/640px-SamudraguptaCoinLyristType.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Hoard Discovery', date: '1946', location: 'Bayana, Rajasthan', note: 'Part of historic Bayana hoard discovery' }
     ],
-    status: 'registered'
+    status: 'registered',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1006',
@@ -102,12 +106,13 @@ const sampleArtifacts = [
     dimensions: '78 cm x 45 cm',
     inscriptionText: 'Tamil grantha script detailing ritual offerings',
     images: [
-      { url: 'https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chola_Bronze_Shiva.jpg/640px-Chola_Bronze_Shiva.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Stolen from shrine', date: '1982', location: 'Nagapattinam', note: 'FIR registered with TN Police Idol Wing' }
     ],
-    status: 'stolen'
+    status: 'stolen',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1007',
@@ -118,12 +123,13 @@ const sampleArtifacts = [
     dimensions: '82 cm x 38 cm',
     inscriptionText: 'Ivory carvers of Vidisha guild inscription',
     images: [
-      { url: 'https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sanchi_Stupa_No.1_Torana_Yakshini_East_Gateway.jpg/640px-Sanchi_Stupa_No.1_Torana_Yakshini_East_Gateway.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'ASI Conservation', date: '1919', location: 'Sanchi Museum', note: 'Restored under Sir John Marshall' }
     ],
-    status: 'registered'
+    status: 'registered',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1008',
@@ -134,12 +140,13 @@ const sampleArtifacts = [
     dimensions: '105 cm x 52 cm',
     inscriptionText: 'Buddhist creed formula in Siddhamatrika script',
     images: [
-      { url: 'https://images.unsplash.com/photo-1567157577867-05ccb1388e66?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pala_statue_of_Tara_Nalanda.jpg/640px-Pala_statue_of_Tara_Nalanda.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Repatriated from UK', date: '2023-08-15', location: 'ASI New Delhi', note: 'Successfully recovered via INTERPOL notice' }
     ],
-    status: 'repatriating'
+    status: 'repatriating',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1009',
@@ -150,12 +157,13 @@ const sampleArtifacts = [
     dimensions: '42 cm x 28 cm',
     inscriptionText: 'Kannada royal stamp on base',
     images: [
-      { url: 'https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Krishna_as_a_Butter_Thief_Bronze.jpg/640px-Krishna_as_a_Butter_Thief_Bronze.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Returned to Temple', date: '2024-01-10', location: 'Virupaksha Temple Complex', note: 'Formally returned and re-consecrated' }
     ],
-    status: 'returned'
+    status: 'returned',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1010',
@@ -166,12 +174,13 @@ const sampleArtifacts = [
     dimensions: '160 cm x 55 cm',
     inscriptionText: 'Brahmi donor inscription of King Kanishka era',
     images: [
-      { url: 'https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Parkham_Yaksha_Mathura_Museum.jpg/640px-Parkham_Yaksha_Mathura_Museum.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Archaeological Survey', date: '1962', location: 'Mathura Government Museum', note: 'Cataloged as MM-104' }
     ],
-    status: 'registered'
+    status: 'registered',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1011',
@@ -182,12 +191,13 @@ const sampleArtifacts = [
     dimensions: '95 cm x 40 cm',
     inscriptionText: 'Architectural mason mark #44',
     images: [
-      { url: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apsara_Khajuraho_Museum.jpg/640px-Apsara_Khajuraho_Museum.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Registered with ASI', date: '2020-05-12', location: 'ASI Bhopal Circle', note: 'High resolution photogrammetry complete' }
     ],
-    status: 'registered'
+    status: 'registered',
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1012',
@@ -198,7 +208,7 @@ const sampleArtifacts = [
     dimensions: '18 cm x 7 cm',
     inscriptionText: 'Traces of red ochre pigment',
     images: [
-      { url: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mother_goddess_Mohenjo-daro.jpg/640px-Mother_goddess_Mohenjo-daro.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Excavation', date: '1968', location: 'ASI Excavation Site', note: 'Found in Trench B-4' }
@@ -215,13 +225,13 @@ const sampleArtifacts = [
     dimensions: '65 cm x 30 cm',
     inscriptionText: 'Tamil inscription mentioning Chola royal guild',
     images: [
-      { url: 'https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sambandar_Chola_Bronze_Met.jpg/640px-Sambandar_Chola_Bronze_Met.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Reported Missing', date: '2018-09-04', location: 'Sirkazhi Temple', note: 'Stolen during night break-in' }
     ],
     status: 'stolen',
-    isHeritageImage: false
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1014',
@@ -232,13 +242,13 @@ const sampleArtifacts = [
     dimensions: '38 cm x 20 cm',
     inscriptionText: 'Sharada script inscription on throne reverse',
     images: [
-      { url: 'https://images.unsplash.com/photo-1567157577867-05ccb1388e66?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Avalokiteshvara_Kashmir_bronze_8th_century.jpg/640px-Avalokiteshvara_Kashmir_bronze_8th_century.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Private Collection Heritage Register', date: '2019-11-20', location: 'Srinagar Museum', note: 'Verified by ASI Expert Panel' }
     ],
     status: 'registered',
-    isHeritageImage: false
+    isHeritageImage: true
   },
   {
     artifactId: 'NXD-1015',
@@ -249,13 +259,13 @@ const sampleArtifacts = [
     dimensions: '130 cm x 80 cm',
     inscriptionText: 'Odia Brahmi label inscription',
     images: [
-      { url: 'https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80', angle: 'front' }
+      { url: 'http://localhost:8000/api/heritage/images/12th-century_Surya_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg', angle: 'front' }
     ],
     provenance: [
       { event: 'Preserved at Site Museum', date: '1950', location: 'Konark Archaeological Museum', note: 'Original temple niche sculpture' }
     ],
     status: 'registered',
-    isHeritageImage: false
+    isHeritageImage: true
   }
 ];
 
@@ -346,72 +356,7 @@ const seedDB = async () => {
     }
     console.log(`Seeded ${artifactDocs.length} Indian antiquities artifacts.`);
 
-    // Create 1 sample Recovered Object & Case for match_pending Buddha Idol
-    const pendingMatchArtifact = artifactDocs.find(a => a.artifactId === 'NXD-1003');
-    if (pendingMatchArtifact) {
-      const recoveredObj = await RecoveredObject.create({
-        reportedBy: authority._id,
-        images: ['https://images.unsplash.com/photo-1567157577867-05ccb1388e66?auto=format&fit=crop&w=800&q=80'],
-        location: 'Customs Interception Warehouse, Mumbai Port',
-        foundDate: new Date('2026-02-14'),
-        matches: [
-          { artifactId: pendingMatchArtifact._id, score: 96.8 },
-          { artifactId: artifactDocs[0]._id, score: 82.4 },
-          { artifactId: artifactDocs[3]._id, score: 74.1 }
-        ]
-      });
-
-      await Case.create({
-        caseId: 'CASE-884920',
-        artifactId: pendingMatchArtifact._id,
-        recoveredObjectId: recoveredObj._id,
-        status: 'match_pending',
-        note: 'AI system identified 96.8% visual and geometric similarity with reported Gandhara Buddha.',
-        timeline: [
-          {
-            status: 'match_pending',
-            updatedBy: authority._id,
-            timestamp: new Date('2026-02-14'),
-            note: 'Seized object logged during airport customs audit. AI match query initiated.'
-          }
-        ]
-      });
-    }
-
-    // Create 1 sample Verified Case for Hoysala Idol
-    const verifiedArtifact = artifactDocs.find(a => a.artifactId === 'NXD-1004');
-    if (verifiedArtifact) {
-      const recObjVerified = await RecoveredObject.create({
-        reportedBy: authority._id,
-        images: ['https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80'],
-        location: 'Seized Auction House, Geneva',
-        foundDate: new Date('2025-11-20'),
-        matches: [{ artifactId: verifiedArtifact._id, score: 98.2 }]
-      });
-
-      await Case.create({
-        caseId: 'CASE-773812',
-        artifactId: verifiedArtifact._id,
-        recoveredObjectId: recObjVerified._id,
-        status: 'verified',
-        verifiedBy: expert._id,
-        note: 'Micro-chisel marks and inscription match confirmed by expert panel.',
-        timeline: [
-          {
-            status: 'match_pending',
-            updatedBy: authority._id,
-            timestamp: new Date('2025-11-20'),
-            note: 'INTERPOL flag triggered match'
-          },
-          {
-            status: 'verified',
-            updatedBy: expert._id,
-            timestamp: new Date('2025-11-25'),
-            note: 'Expert Prof. Ananya Sen verified physical dimensions & sculptural style.'
-          }
-        ]
-      });
-    }
+    // Note: No fake or sample recovery cases are preloaded. Global Registry starts empty.
 
     // Seed initial Audit Logs
     await AuditLog.create({

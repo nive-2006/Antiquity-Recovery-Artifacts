@@ -1,0 +1,101 @@
+query_image,ground_truth_class,top1_retrieved_image,top1_similarity,top1_deity_or_subject,top1_artifact_name,failure_category
+Buddha/buddha_1.jpg,Buddha,down_flip_temple_in_india_11980.jpg,0.8156,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Buddha/buddha_10.jpg,Buddha,right_temple_in_india_13017.jpg,0.8174,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Buddha/buddha_2.jpg,Buddha,right_temple_in_india_13017.jpg,0.8167,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Buddha/buddha_3.jpg,Buddha,down_flip_temple_in_india_11980.jpg,0.812,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Buddha/buddha_4.jpg,Buddha,right_temple_in_india_13017.jpg,0.8167,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Buddha/buddha_5.jpg,Buddha,right_temple_in_india_13017.jpg,0.8031,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Buddha/buddha_6.jpg,Buddha,right_temple_in_india_13017.jpg,0.8156,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Buddha/buddha_7.jpg,Buddha,right_temple_in_india_13017.jpg,0.8082,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Buddha/buddha_8.jpg,Buddha,right_temple_in_india_13017.jpg,0.802,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Buddha/buddha_9.jpg,Buddha,right_temple_in_india_13017.jpg,0.8135,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_1.jpg,Ganesha,down_flip_temple_in_india_11980.jpg,0.8063,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_10.jpg,Ganesha,right_temple_in_india_13017.jpg,0.8176,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_11.jpg,Ganesha,right_temple_in_india_13017.jpg,0.8012,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_12.jpg,Ganesha,right_temple_in_india_13017.jpg,0.8027,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_13.jpg,Ganesha,down_flip_temple_in_india_11980.jpg,0.8022,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_14.jpg,Ganesha,right_temple_in_india_13017.jpg,0.808,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_15.jpg,Ganesha,right_temple_in_india_13017.jpg,0.8053,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_2.jpg,Ganesha,right_temple_in_india_13017.jpg,0.8167,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_3.jpg,Ganesha,down_flip_temple_in_india_11980.jpg,0.8076,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_4.jpg,Ganesha,right_temple_in_india_13017.jpg,0.7961,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_5.jpg,Ganesha,down_flip_temple_in_india_11980.jpg,0.812,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_6.jpg,Ganesha,right_temple_in_india_13017.jpg,0.7961,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_7.jpg,Ganesha,right_temple_in_india_13017.jpg,0.8026,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_8.jpg,Ganesha,right_temple_in_india_13017.jpg,0.8063,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Ganesha/ganesha_9.jpg,Ganesha,right_temple_in_india_13017.jpg,0.7873,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_1.jpg,Hanuman,right_temple_in_india_13017.jpg,0.8166,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_10.jpg,Hanuman,right_temple_in_india_13017.jpg,0.8127,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_2.jpg,Hanuman,right_temple_in_india_13017.jpg,0.8115,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_3.jpg,Hanuman,right_temple_in_india_13017.jpg,0.8107,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_4.jpg,Hanuman,down_flip_temple_in_india_11980.jpg,0.8046,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_5.jpg,Hanuman,down_flip_temple_in_india_11980.jpg,0.82,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_6.jpg,Hanuman,right_temple_in_india_13017.jpg,0.797,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_7.jpg,Hanuman,right_temple_in_india_13017.jpg,0.8224,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_8.jpg,Hanuman,right_temple_in_india_13017.jpg,0.8123,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Hanuman/hanuman_9.jpg,Hanuman,right_temple_in_india_13017.jpg,0.8074,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_1.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8152,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_10.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8082,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_2.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8077,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_3.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8207,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_4.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8137,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_5.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8206,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_6.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8069,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_7.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8132,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_8.jpg,Lakshmi,right_temple_in_india_13017.jpg,0.8156,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Lakshmi/lakshmi_9.jpg,Lakshmi,down_flip_temple_in_india_11980.jpg,0.8034,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Murugar/murugar_1.jpg,Murugar,right_temple_in_india_13017.jpg,0.8125,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_10.jpg,Murugar,right_temple_in_india_13017.jpg,0.8055,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_11.jpg,Murugar,right_temple_in_india_13017.jpg,0.8224,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_12.jpg,Murugar,right_temple_in_india_13017.jpg,0.8234,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_13.jpg,Murugar,right_temple_in_india_13017.jpg,0.7904,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_14.jpg,Murugar,right_temple_in_india_13017.jpg,0.8086,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_15.jpg,Murugar,right_temple_in_india_13017.jpg,0.8157,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_2.jpg,Murugar,right_temple_in_india_13017.jpg,0.8063,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_3.jpg,Murugar,right_temple_in_india_13017.jpg,0.799,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_4.jpg,Murugar,down_CholaSculptures_resized_images_indien_tamil_nadu_kumbakonam_nagheshwara_tempel.jpg.jpg,0.8034,nan,down CholaSculptures resized images indien tamil nadu kumbak,Visual similarity / Unlabeled background artifact
+Murugar/murugar_5.jpg,Murugar,right_temple_in_india_13017.jpg,0.8055,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_6.jpg,Murugar,right_temple_in_india_13017.jpg,0.8052,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_7.jpg,Murugar,right_temple_in_india_13017.jpg,0.7989,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_8.jpg,Murugar,right_temple_in_india_13017.jpg,0.8038,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Murugar/murugar_9.jpg,Murugar,right_temple_in_india_13017.jpg,0.8135,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_1.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7974,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_10.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7952,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_11.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.8048,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_12.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7932,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_13.jpg,Nadaraja,down_Hoysaleshwara_temple%2C_Halebidu_630.jpg,0.7884,nan,"down Hoysaleshwara temple, Halebidu 630",Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_14.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7981,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_15.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7883,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_2.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7981,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_3.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.8042,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_4.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.8073,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_5.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.8007,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_6.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7956,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_7.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7911,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_8.jpg,Nadaraja,down_flip_temple_in_india_11980.jpg,0.8013,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Nadaraja/nadaraja_9.jpg,Nadaraja,right_temple_in_india_13017.jpg,0.7952,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Shivan/shivan_1.jpg,Shivan,right_temple_in_india_13017.jpg,0.8123,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Shivan/shivan_10.jpg,Shivan,right_temple_in_india_13017.jpg,0.8018,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Shivan/shivan_2.jpg,Shivan,right_temple_in_india_13017.jpg,0.8192,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Shivan/shivan_3.jpg,Shivan,right_temple_in_india_13017.jpg,0.8136,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Shivan/shivan_4.jpg,Shivan,right_temple_in_india_13017.jpg,0.8061,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Shivan/shivan_5.jpg,Shivan,down_flip_temple_in_india_11980.jpg,0.8218,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Shivan/shivan_6.jpg,Shivan,right_temple_in_india_13017.jpg,0.8194,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Shivan/shivan_7.jpg,Shivan,down_flip_temple_in_india_11980.jpg,0.8059,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Shivan/shivan_8.jpg,Shivan,down_CholaSculptures_resized_images_indien_tamil_nadu_kumbakonam_nagheshwara_tempel.jpg.jpg,0.7971,nan,down CholaSculptures resized images indien tamil nadu kumbak,Visual similarity / Unlabeled background artifact
+Shivan/shivan_9.jpg,Shivan,right_temple_in_india_13017.jpg,0.8117,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_1.jpg,Vishnu,down_Hoysaleshwara_temple%2C_Halebidu_630.jpg,0.8006,nan,"down Hoysaleshwara temple, Halebidu 630",Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_10.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8137,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_11.jpg,Vishnu,down_flip_temple_in_india_11980.jpg,0.8222,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_12.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8134,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_13.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8203,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_14.jpg,Vishnu,down_flip_temple_in_india_11980.jpg,0.7997,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_15.jpg,Vishnu,down_Hoysaleshwara_temple%2C_Halebidu_630.jpg,0.796,nan,"down Hoysaleshwara temple, Halebidu 630",Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_2.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8218,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_3.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8013,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_4.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8116,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_5.jpg,Vishnu,down_flip_temple_in_india_11980.jpg,0.7993,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_6.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8127,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_7.jpg,Vishnu,down_flip_temple_in_india_11980.jpg,0.7993,nan,down flip temple in india 11980,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_8.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8131,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact
+Vishnu/vishnu_9.jpg,Vishnu,right_temple_in_india_13017.jpg,0.8086,nan,right temple in india 13017,Visual similarity / Unlabeled background artifact

@@ -1,0 +1,66 @@
+================================================================================
+DIGITAL HERITAGE AI — INDEPENDENT EVALUATION REPORT
+================================================================================
+Evaluation Date              : 2026-10-06 09:27:43
+Evaluated Model Checkpoint  : C:\Users\Dell\OneDrive\Desktop\pep-project-2\pep-project-2\ai_microservice\data\best_projection_head.pt
+Backbone Model               : facebook/dinov2-base
+Backbone Embedding Dim      : 768
+Projection Head Architecture: Linear(768, 512) -> GELU -> Linear(512, 256)
+Projection Output Dim        : 256
+Trained Parameters           : 525,056
+FAISS Index Type             : IndexFlatIP (256-D Inner Product)
+Reference Database Size      : 20,399 images
+--------------------------------------------------------------------------------
+1. DATASET & INDEPENDENT TEST BREAKDOWN
+--------------------------------------------------------------------------------
+Total Independent Test Images: 100
+Class Distribution:
+  - Buddha         : 10 images
+  - Ganesha        : 15 images
+  - Hanuman        : 10 images
+  - Lakshmi        : 10 images
+  - Murugar        : 15 images
+  - Nadaraja       : 15 images
+  - Shivan         : 10 images
+  - Vishnu         : 15 images
+--------------------------------------------------------------------------------
+2. DATA LEAKAGE ANALYSIS
+--------------------------------------------------------------------------------
+Hashing Method               : SHA-256 (File Level)
+Total Independent Queries    : 100
+Exact Duplicate Leakage      : 0
+Valid Independent Queries    : 100
+Excluded Leakage Queries     : 0
+Leakage Assessment           : No exact duplicate leakage detected.
+--------------------------------------------------------------------------------
+3. RETRIEVAL METRICS (INDEPENDENT TEST SET)
+--------------------------------------------------------------------------------
+Trained Model (256-D Projection Head):
+  Recall@1    : 8.00%
+  Recall@5    : 23.00%
+  Recall@10   : 33.00%
+  Precision@1 : 8.00%
+  Precision@5 : 8.20%
+  Precision@10: 7.70%
+  mAP@10      : 13.56%
+
+Baseline DINOv2 (768-D Raw):
+  Recall@1    : 14.00%
+  Recall@5    : 29.00%
+  Recall@10   : 42.00%
+  Precision@1 : 14.00%
+  Precision@5 : 8.40%
+  Precision@10: 7.80%
+  mAP@10      : 18.62%
+--------------------------------------------------------------------------------
+4. CLASSIFICATION METRICS STATUS
+--------------------------------------------------------------------------------
+Classification Status: NOT CALCULATED — reliable ground truth unavailable.
+Reason: 19,579 out of 20,399 reference images (95.98%) lack explicit deity/class labels.
+--------------------------------------------------------------------------------
+5. LIMITATIONS & SCIENTIFIC NOTES
+--------------------------------------------------------------------------------
+1. Ground truth evaluation relies on non-leaked independent queries.
+2. Retrieval metrics assess top-10 visual similarity ranking against reference database.
+3. Projection head (256-D) compresses 768-D embeddings by 3x while preserving semantic retrieval capability.
+================================================================================

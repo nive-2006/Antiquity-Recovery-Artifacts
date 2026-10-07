@@ -1,0 +1,9 @@
+{
+    "Recall@1": 14.0,
+    "Recall@5": 28.0,
+    "Recall@10": 40.0,
+    "Precision@1": 14.0,
+    "Precision@5": 8.2,
+    "Precision@10": 7.4,
+    "mAP@10": 18.01
+}

@@ -6,16 +6,23 @@ import base64
 import urllib.parse
 import uvicorn
 import requests
+import pandas as pd
+import numpy as np
+import cv2
 from dotenv import load_dotenv
 from fastapi import FastAPI, UploadFile, File, HTTPException, Query, Form
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from PIL import Image
-import numpy as np
-import cv2
 
 # DINOv2 Embedding & Trained Heritage Retrieval Service Imports
-from dinov2_service import TrainedHeritageRetrievalService, IMAGES_DIR
+from dinov2_service import (
+    TrainedHeritageRetrievalService,
+    IMAGES_DIR,
+    get_dinov2_service,
+    get_embedding_store,
+    EmbeddingStore
+)
 
 # Load environment variables from .env file if present
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -406,6 +413,67 @@ async def heritage_ai_search(
     except Exception as err:
         print(f"[Heritage AI] Search error: {err}")
         raise HTTPException(status_code=500, detail=f"Heritage AI search failed: {str(err)}")
+
+
+@app.get("/api/heritage/metadata/{image_id:path}")
+async def get_heritage_metadata(image_id: str):
+    """
+    Step 12 API Endpoint:
+    Returns complete structured heritage metadata for a specified image_id.
+    """
+    unquoted_id = urllib.parse.unquote(image_id)
+    service = get_heritage_service()
+    
+    # Try finding in heritage metadata CSV
+    heritage_csv = os.path.join(SCRIPT_DIR, "data", "heritage_metadata.csv")
+    if os.path.exists(heritage_csv):
+        try:
+            df = pd.read_csv(heritage_csv).where(pd.notnull, None)
+            matched_rows = df[df["image_id"].astype(str) == str(unquoted_id)]
+            if matched_rows.empty:
+                # Also try matching image_name
+                matched_rows = df[df["image_name"].astype(str) == str(unquoted_id)]
+
+            if not matched_rows.empty:
+                row = matched_rows.iloc[0].to_dict()
+                cleaned = {}
+                for k, v in row.items():
+                    if pd.isna(v) or v is None or (isinstance(v, float) and np.isnan(v)):
+                        cleaned[k] = None
+                    else:
+                        cleaned[k] = str(v).strip() if isinstance(v, str) else v
+                return cleaned
+        except Exception as e:
+            print(f"[Heritage AI] Error reading heritage_metadata.csv: {e}")
+
+    # Fallback response if metadata not yet created for this image_id
+    return {
+        "image_id": unquoted_id,
+        "image_name": unquoted_id,
+        "artifact_name": None,
+        "temple_name": None,
+        "monument_name": None,
+        "deity_or_subject": None,
+        "location": None,
+        "district": None,
+        "state": None,
+        "country": "India",
+        "historical_period": None,
+        "approximate_date": None,
+        "dynasty": None,
+        "architectural_style": None,
+        "artifact_type": None,
+        "material": None,
+        "description": "Historical metadata not yet established.",
+        "historical_background": None,
+        "provenance": None,
+        "current_location": None,
+        "metadata_source": None,
+        "source_url": None,
+        "metadata_confidence": "low",
+        "verification_status": "unverified",
+        "metadata_generated_by": "filename"
+    }
 
 
 @app.get("/api/heritage/images/{filename:path}")

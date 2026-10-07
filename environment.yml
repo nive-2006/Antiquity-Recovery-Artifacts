@@ -1,0 +1,16 @@
+name: heritage_ai_env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch
+  - torchvision
+  - faiss-cpu
+  - pandas
+  - numpy
+  - pillow
+  - matplotlib
+  - pip:
+      - transformers

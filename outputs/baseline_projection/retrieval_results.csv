@@ -1,0 +1,1001 @@
+query_image,ground_truth_class,rank,retrieved_image,similarity,is_relevant
+Buddha/buddha_1.jpg,Buddha,1,206f0345a9bfc71a9c3520c9d87235f9.jpg,0.106834,False
+Buddha/buddha_1.jpg,Buddha,2,206f0345a9bfc71a9c3520c9d87235f9 - Copy.jpg,0.106834,False
+Buddha/buddha_1.jpg,Buddha,3,23166164675_eb610e1d9c_m.jpg,0.103555,False
+Buddha/buddha_1.jpg,Buddha,4,0fdc26f301b6160fc6a74e3359fabbe8.jpg,0.102424,False
+Buddha/buddha_1.jpg,Buddha,5,left_flip_Budha_deva.jpg,0.099312,False
+Buddha/buddha_1.jpg,Buddha,6,left_flip_temple_in_india_11269.jpg,0.099045,False
+Buddha/buddha_1.jpg,Buddha,7,temple_in_india_9_416.jpg,0.098795,False
+Buddha/buddha_1.jpg,Buddha,8,22954784144_c8dee016c8_m.jpg,0.095995,False
+Buddha/buddha_1.jpg,Buddha,9,left_flip_ChennakesavaTemple_resized_images_12th_century_meditating_lakshmi_chennakesava_temple_at_somanathapura2c_karnataka2c_india.jpg.jpg,0.092585,False
+Buddha/buddha_1.jpg,Buddha,10,temple_in_india_14276.jpg,0.091606,False
+Buddha/buddha_10.jpg,Buddha,1,207d008782be892c08ffd792dd562185.jpg,0.112013,False
+Buddha/buddha_10.jpg,Buddha,2,0bebaa513b416fa712960fe103d5905a.jpg,0.106396,False
+Buddha/buddha_10.jpg,Buddha,3,1eb5644423ce4991952b5383e0b7814c.jpg,0.094717,False
+Buddha/buddha_10.jpg,Buddha,4,17406651579_50d8c355d4_m.jpg,0.094488,False
+Buddha/buddha_10.jpg,Buddha,5,newsit (181).jpg,0.09431,False
+Buddha/buddha_10.jpg,Buddha,6,newsit (159).jpg,0.094276,False
+Buddha/buddha_10.jpg,Buddha,7,1e1558aa6556f06c13aaf995681bd4c3.jpg,0.089609,False
+Buddha/buddha_10.jpg,Buddha,8,left_flip_temple_in_india_10494.jpg,0.086208,False
+Buddha/buddha_10.jpg,Buddha,9,1d4c675fe232b50f237114633e9774bd.jpg,0.085661,False
+Buddha/buddha_10.jpg,Buddha,10,left_flip_temple_in_india_9_171.jpg,0.083673,False
+Buddha/buddha_2.jpg,Buddha,1,17406651579_50d8c355d4_m.jpg,0.210099,False
+Buddha/buddha_2.jpg,Buddha,2,CholaSculptures_resized_images_buddha_shakyamuni_seated_in_meditation_28dhyanamudra29.jpg.jpg,0.203997,True
+Buddha/buddha_2.jpg,Buddha,3,19090568589_383d5891f1_m.jpg,0.198364,False
+Buddha/buddha_2.jpg,Buddha,4,temple_in_india_6250.jpg,0.197222,False
+Buddha/buddha_2.jpg,Buddha,5,1d4c675fe232b50f237114633e9774bd.jpg,0.195836,False
+Buddha/buddha_2.jpg,Buddha,6,newsit (159).jpg,0.195824,False
+Buddha/buddha_2.jpg,Buddha,7,newsit (125).jpg,0.194895,False
+Buddha/buddha_2.jpg,Buddha,8,20991807745_65d49cc89d_m.jpg,0.193772,False
+Buddha/buddha_2.jpg,Buddha,9,0bebaa513b416fa712960fe103d5905a.jpg,0.190818,False
+Buddha/buddha_2.jpg,Buddha,10,newsit (1).jpg,0.1881,False
+Buddha/buddha_3.jpg,Buddha,1,newsit (117).jpg,0.080596,False
+Buddha/buddha_3.jpg,Buddha,2,22848586500_19ec6e66f9_m.jpg,0.079396,False
+Buddha/buddha_3.jpg,Buddha,3,left_flip_temple_in_india_12_158.jpg,0.068965,False
+Buddha/buddha_3.jpg,Buddha,4,left_flip_temple_in_india_11269.jpg,0.068475,False
+Buddha/buddha_3.jpg,Buddha,5,newsit (131).jpg,0.06797,False
+Buddha/buddha_3.jpg,Buddha,6,11_Madanika_at_Chennakeshava_Temple.jpg,0.067876,False
+Buddha/buddha_3.jpg,Buddha,7,left_flip_temple_in_india_9_171.jpg,0.067539,False
+Buddha/buddha_3.jpg,Buddha,8,1d4c675fe232b50f237114633e9774bd.jpg,0.066135,False
+Buddha/buddha_3.jpg,Buddha,9,32954358874_c650636c27_m.jpg,0.062486,False
+Buddha/buddha_3.jpg,Buddha,10,01_Madanika_at_Chennakeshava_Temple.jpg,0.061591,False
+Buddha/buddha_4.jpg,Buddha,1,17406651579_50d8c355d4_m.jpg,0.179324,False
+Buddha/buddha_4.jpg,Buddha,2,newsit (125).jpg,0.174817,False
+Buddha/buddha_4.jpg,Buddha,3,left_flip_CholaSculptures_resized_images_dd0berxv0aahobt.jpg.jpg,0.172402,False
+Buddha/buddha_4.jpg,Buddha,4,CholaSculptures_resized_images_dd0berxv0aahobt.jpg.jpg,0.171583,False
+Buddha/buddha_4.jpg,Buddha,5,CholaSculptures_resized_images_buddha_shakyamuni_seated_in_meditation_28dhyanamudra29.jpg.jpg,0.171561,True
+Buddha/buddha_4.jpg,Buddha,6,newsit (159).jpg,0.163782,False
+Buddha/buddha_4.jpg,Buddha,7,left_flip_Budha_deva.jpg,0.163679,False
+Buddha/buddha_4.jpg,Buddha,8,20991807745_65d49cc89d_m.jpg,0.161984,False
+Buddha/buddha_4.jpg,Buddha,9,1eb5644423ce4991952b5383e0b7814c.jpg,0.161697,False
+Buddha/buddha_4.jpg,Buddha,10,2ff96ea4885f39ad5947258a8588cd10.jpg,0.161285,False
+Buddha/buddha_5.jpg,Buddha,1,left_flip_CholaSculptures_resized_images_a_stone_sculpture_from_chola_era.jpg.jpg,0.11593,False
+Buddha/buddha_5.jpg,Buddha,2,CholaArchitecture_resized_images_9th_century_nakkula_temple2c_biccavolu_andhra_pradesh_-_24.jpg.jpg,0.107318,False
+Buddha/buddha_5.jpg,Buddha,3,22848586500_19ec6e66f9_m.jpg,0.104974,False
+Buddha/buddha_5.jpg,Buddha,4,22791546929_1ef6d143ab_m.jpg,0.103703,False
+Buddha/buddha_5.jpg,Buddha,5,newsit (117).jpg,0.102992,False
+Buddha/buddha_5.jpg,Buddha,6,left_flip_Lion_vanquishing_Elephant_01.jpg,0.100475,False
+Buddha/buddha_5.jpg,Buddha,7,right_CholaArchitecture_resized_images_9th_century_kancana_gudi2c_biccavolu_andhra_pradesh_-_9.jpg.jpg,0.100326,False
+Buddha/buddha_5.jpg,Buddha,8,right_temple_in_india_14_188.jpg,0.100193,False
+Buddha/buddha_5.jpg,Buddha,9,left_CholaArchitecture_resized_images_9th_century_golingeswara_temple2c_biccavolu_andhra_pradesh_-_48.jpg.jpg,0.099267,False
+Buddha/buddha_5.jpg,Buddha,10,26929670026_2eb8e97798_m.jpg,0.095096,False
+Buddha/buddha_6.jpg,Buddha,1,0bebaa513b416fa712960fe103d5905a.jpg,0.169813,False
+Buddha/buddha_6.jpg,Buddha,2,1eb5644423ce4991952b5383e0b7814c.jpg,0.152407,False
+Buddha/buddha_6.jpg,Buddha,3,207d008782be892c08ffd792dd562185.jpg,0.148839,False
+Buddha/buddha_6.jpg,Buddha,4,1d4c675fe232b50f237114633e9774bd.jpg,0.144461,False
+Buddha/buddha_6.jpg,Buddha,5,"0040323_Vishnu,_Cham_Hindu_god_artwork,_Museum_of_Cham_Sculpture,_Da_Nang_Vietnam.jpg",0.144219,False
+Buddha/buddha_6.jpg,Buddha,6,left_temple_in_india_8_178.jpg,0.142406,False
+Buddha/buddha_6.jpg,Buddha,7,CholaSculptures_resized_images_clevelandart_1963.104.jpg.jpg,0.141236,False
+Buddha/buddha_6.jpg,Buddha,8,0583821449238e09eeea62b43264f630.jpg,0.140657,False
+Buddha/buddha_6.jpg,Buddha,9,left_flip_temple_in_india_1_222.jpg,0.13857,False
+Buddha/buddha_6.jpg,Buddha,10,23162456395_0869bc45b3_n.jpg,0.137911,False
+Buddha/buddha_7.jpg,Buddha,1,left_temple_in_india_8_178.jpg,0.118016,False
+Buddha/buddha_7.jpg,Buddha,2,0bebaa513b416fa712960fe103d5905a.jpg,0.114454,False
+Buddha/buddha_7.jpg,Buddha,3,left_temple_in_india_9_182.jpg,0.112199,False
+Buddha/buddha_7.jpg,Buddha,4,left_flip_temple_in_india_8560.jpg,0.110091,False
+Buddha/buddha_7.jpg,Buddha,5,left_flip_temple_in_india_6202.jpg,0.109293,False
+Buddha/buddha_7.jpg,Buddha,6,temple_in_india_11_491.jpg,0.107813,False
+Buddha/buddha_7.jpg,Buddha,7,left_flip_temple_in_india_5274.jpg,0.107585,False
+Buddha/buddha_7.jpg,Buddha,8,left_flip_temple_in_india_9_179.jpg,0.107432,False
+Buddha/buddha_7.jpg,Buddha,9,left_flip_temple_in_india_16562.jpg,0.106538,False
+Buddha/buddha_7.jpg,Buddha,10,left_flip_temple_in_india_14540.jpg,0.106059,False
+Buddha/buddha_8.jpg,Buddha,1,1eb5644423ce4991952b5383e0b7814c.jpg,0.181487,False
+Buddha/buddha_8.jpg,Buddha,2,17406651579_50d8c355d4_m.jpg,0.176874,False
+Buddha/buddha_8.jpg,Buddha,3,newsit (125).jpg,0.167576,False
+Buddha/buddha_8.jpg,Buddha,4,1d4c675fe232b50f237114633e9774bd.jpg,0.167189,False
+Buddha/buddha_8.jpg,Buddha,5,CholaSculptures_resized_images_buddha_shakyamuni_seated_in_meditation_28dhyanamudra29.jpg.jpg,0.164656,True
+Buddha/buddha_8.jpg,Buddha,6,temple_in_india_6250.jpg,0.16405,False
+Buddha/buddha_8.jpg,Buddha,7,newsit (159).jpg,0.162561,False
+Buddha/buddha_8.jpg,Buddha,8,0bebaa513b416fa712960fe103d5905a.jpg,0.160185,False
+Buddha/buddha_8.jpg,Buddha,9,29451704845_6a0541b08c_m.jpg,0.158378,False
+Buddha/buddha_8.jpg,Buddha,10,newsit (116).jpg,0.157624,False
+Buddha/buddha_9.jpg,Buddha,1,temple_in_india_6250.jpg,0.108696,False
+Buddha/buddha_9.jpg,Buddha,2,newsit (125).jpg,0.106964,False
+Buddha/buddha_9.jpg,Buddha,3,left_flip_CholaSculptures_resized_images_flickr_-_dalbera_-_shiva_28musc3a9e_guimet29.jpg.jpg,0.104064,False
+Buddha/buddha_9.jpg,Buddha,4,019bbdd8b898c990905cb111571a1db5.jpg,0.102896,False
+Buddha/buddha_9.jpg,Buddha,5,newsit (128).jpg,0.100344,False
+Buddha/buddha_9.jpg,Buddha,6,0bebaa513b416fa712960fe103d5905a.jpg,0.099481,False
+Buddha/buddha_9.jpg,Buddha,7,newsit (154).jpg,0.099258,False
+Buddha/buddha_9.jpg,Buddha,8,17406651579_50d8c355d4_m.jpg,0.09917,False
+Buddha/buddha_9.jpg,Buddha,9,049b85de511029c5fb579da2c57d0cc5.jpg,0.098608,False
+Buddha/buddha_9.jpg,Buddha,10,newsit (169).jpg,0.098424,False
+Ganesha/ganesha_1.jpg,Ganesha,1,temple_in_india_0_192.jpg,0.096087,False
+Ganesha/ganesha_1.jpg,Ganesha,2,left_flip_temple_in_india_9553.jpg,0.095363,False
+Ganesha/ganesha_1.jpg,Ganesha,3,temple_in_india_9_455.jpg,0.093913,False
+Ganesha/ganesha_1.jpg,Ganesha,4,temple_in_india_9706.jpg,0.093588,False
+Ganesha/ganesha_1.jpg,Ganesha,5,left_flip_temple_in_india_8_443.jpg,0.092672,False
+Ganesha/ganesha_1.jpg,Ganesha,6,left_flip_temple_in_india_9_87.jpg,0.091529,False
+Ganesha/ganesha_1.jpg,Ganesha,7,29e38fc364cdc6e6b991db68ae15f2f1.jpg,0.090501,False
+Ganesha/ganesha_1.jpg,Ganesha,8,down_flip_dravidian_south_9.jpg,0.089145,False
+Ganesha/ganesha_1.jpg,Ganesha,9,temple_in_india_6756.jpg,0.088496,False
+Ganesha/ganesha_1.jpg,Ganesha,10,left_flip_temple_in_india_17042.jpg,0.088277,False
+Ganesha/ganesha_10.jpg,Ganesha,1,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_temple2c_hindu_god_shiva2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_281329.jpg.jpg,0.101182,False
+Ganesha/ganesha_10.jpg,Ganesha,2,temple_in_india_15853.jpg,0.098373,False
+Ganesha/ganesha_10.jpg,Ganesha,3,temple_in_india_3258.jpg,0.097989,False
+Ganesha/ganesha_10.jpg,Ganesha,4,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_temple2c_hindu_god_shiva2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28829.jpg.jpg,0.097573,False
+Ganesha/ganesha_10.jpg,Ganesha,5,BrihadisvaraTemple_resized_images_1010_ce_brihadishwara_temple2c_hindu_god_shiva2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_281329.jpg.jpg,0.095961,False
+Ganesha/ganesha_10.jpg,Ganesha,6,left_flip_temple_in_india_700.jpg,0.09571,False
+Ganesha/ganesha_10.jpg,Ganesha,7,left_flip_temple_in_india_1646.jpg,0.094645,False
+Ganesha/ganesha_10.jpg,Ganesha,8,left_flip_BrihadisvaraTemple_resized_images_1010_ce_brihadishwara_temple2c_hindu_god_shiva2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28729.jpg.jpg,0.093649,False
+Ganesha/ganesha_10.jpg,Ganesha,9,temple_in_india_6804.jpg,0.093617,False
+Ganesha/ganesha_10.jpg,Ganesha,10,left_flip_BrihadisvaraTemple_resized_images_thanjavur_big_temple_10.jpg.jpg,0.093362,False
+Ganesha/ganesha_11.jpg,Ganesha,1,Architecture_Display_in_Halebid.JPG,0.057509,False
+Ganesha/ganesha_11.jpg,Ganesha,2,BrihadisvaraTemple_resized_images_thanjavur_brihadishvara_temple_elephant_statue_2.jpg.jpg,0.057268,False
+Ganesha/ganesha_11.jpg,Ganesha,3,left_flip_temple_in_india_8_443.jpg,0.052183,False
+Ganesha/ganesha_11.jpg,Ganesha,4,Front_view_of_elephant.JPG,0.050532,False
+Ganesha/ganesha_11.jpg,Ganesha,5,left_flip_temple_in_india_1468.jpg,0.049291,False
+Ganesha/ganesha_11.jpg,Ganesha,6,temple_in_india_9_455.jpg,0.042131,False
+Ganesha/ganesha_11.jpg,Ganesha,7,Elephant_gate_sculpture_at_Konark_01.jpg,0.040015,False
+Ganesha/ganesha_11.jpg,Ganesha,8,29e38fc364cdc6e6b991db68ae15f2f1.jpg,0.038729,False
+Ganesha/ganesha_11.jpg,Ganesha,9,temple_in_india_9_453.jpg,0.035533,False
+Ganesha/ganesha_11.jpg,Ganesha,10,CholaSculptures_resized_images_ganesha2c_southern_india2c_chola_dynasty2c_early_12th_century_ad2c_sandstone_-_c396stasiatiska_museet2c_stockholm_-_dsc09394.jpg.jpg,0.033032,True
+Ganesha/ganesha_12.jpg,Ganesha,1,down_temple_in_india_9_383.jpg,0.042523,False
+Ganesha/ganesha_12.jpg,Ganesha,2,CholaSculptures_resized_images_ganesha2c_southern_india2c_chola_dynasty2c_early_12th_century_ad2c_sandstone_-_c396stasiatiska_museet2c_stockholm_-_dsc09394.jpg.jpg,0.040331,True
+Ganesha/ganesha_12.jpg,Ganesha,3,29e38fc364cdc6e6b991db68ae15f2f1.jpg,0.03769,False
+Ganesha/ganesha_12.jpg,Ganesha,4,left_flip_temple_in_india_8_238.jpg,0.03292,False
+Ganesha/ganesha_12.jpg,Ganesha,5,left_dravidian_kakatiyas_193.jpg,0.028641,False
+Ganesha/ganesha_12.jpg,Ganesha,6,down_temple_in_india_1097.jpg,0.026441,False
+Ganesha/ganesha_12.jpg,Ganesha,7,left_flip_temple_in_india_9_117.jpg,0.024433,False
+Ganesha/ganesha_12.jpg,Ganesha,8,down_flip_temple_in_india_9_115.jpg,0.024166,False
+Ganesha/ganesha_12.jpg,Ganesha,9,down_flip_temple_in_india_15904.jpg,0.023464,False
+Ganesha/ganesha_12.jpg,Ganesha,10,temple_in_india_9_239.jpg,0.022804,False
+Ganesha/ganesha_13.jpg,Ganesha,1,left_flip_temple_in_india_13972.jpg,0.177777,False
+Ganesha/ganesha_13.jpg,Ganesha,2,left_flip_BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_281629_283749630434129.jpg.jpg,0.157461,False
+Ganesha/ganesha_13.jpg,Ganesha,3,left_flip_temple_in_india_6931.jpg,0.157236,False
+Ganesha/ganesha_13.jpg,Ganesha,4,right_temple_in_india_13972.jpg,0.155801,False
+Ganesha/ganesha_13.jpg,Ganesha,5,left_flip_BrihadisvaraTemple_resized_images_big_temple_019.jpg.jpg,0.155615,False
+Ganesha/ganesha_13.jpg,Ganesha,6,newsit (168).jpg,0.153494,False
+Ganesha/ganesha_13.jpg,Ganesha,7,temple_in_india_15722.jpg,0.15325,False
+Ganesha/ganesha_13.jpg,Ganesha,8,left_flip_temple_in_india_415.jpg,0.151553,False
+Ganesha/ganesha_13.jpg,Ganesha,9,dravidian_hoysalas_66.jpg,0.151224,False
+Ganesha/ganesha_13.jpg,Ganesha,10,down_temple_in_india_2759.jpg,0.149514,False
+Ganesha/ganesha_14.jpg,Ganesha,1,DravidaArchitecture_resized_images_nandi_at_virupaksha_temple2c_pattadakal2c_karnataka.jpg.jpg,0.054861,False
+Ganesha/ganesha_14.jpg,Ganesha,2,left_flip_DravidaArchitecture_resized_images_nandi_at_virupaksha_temple2c_pattadakal2c_karnataka.jpg.jpg,0.052909,False
+Ganesha/ganesha_14.jpg,Ganesha,3,CholaArchitecture_resized_images_deity_sculpture_in_srikanteshwara_temple_at_nanjangud_7.jpg.jpg,0.052212,False
+Ganesha/ganesha_14.jpg,Ganesha,4,down_temple_in_india_8976.jpg,0.052207,False
+Ganesha/ganesha_14.jpg,Ganesha,5,right_Hoysaleswara_Temple_Halebid_Karnataka_by_Sumita_Roy_Dutta_DSCN6421_03.jpg,0.051836,False
+Ganesha/ganesha_14.jpg,Ganesha,6,temple_in_india_4239.jpg,0.049879,False
+Ganesha/ganesha_14.jpg,Ganesha,7,CholaSculptures_resized_images_ganesha_relief_sculpture_in_srikanteshwara_temple_at_nanjangud.jpg.jpg,0.049545,True
+Ganesha/ganesha_14.jpg,Ganesha,8,left_flip_temple_in_india_12215.jpg,0.047767,False
+Ganesha/ganesha_14.jpg,Ganesha,9,29e38fc364cdc6e6b991db68ae15f2f1.jpg,0.047424,False
+Ganesha/ganesha_14.jpg,Ganesha,10,newsit (173).jpg,0.04547,False
+Ganesha/ganesha_15.jpg,Ganesha,1,CholaSculptures_resized_images_ganesha2c_southern_india2c_chola_dynasty2c_early_12th_century_ad2c_sandstone_-_c396stasiatiska_museet2c_stockholm_-_dsc09394.jpg.jpg,0.119293,True
+Ganesha/ganesha_15.jpg,Ganesha,2,left_flip_temple_in_india_15249.jpg,0.106592,False
+Ganesha/ganesha_15.jpg,Ganesha,3,207d008782be892c08ffd792dd562185.jpg,0.106563,False
+Ganesha/ganesha_15.jpg,Ganesha,4,left_flip_temple_in_india_11614.jpg,0.106189,False
+Ganesha/ganesha_15.jpg,Ganesha,5,0bebaa513b416fa712960fe103d5905a.jpg,0.104908,False
+Ganesha/ganesha_15.jpg,Ganesha,6,left_flip_temple_in_india_1468.jpg,0.104575,False
+Ganesha/ganesha_15.jpg,Ganesha,7,temple_in_india_15904.jpg,0.104423,False
+Ganesha/ganesha_15.jpg,Ganesha,8,22d4fe3f8b4d036930580fcf03a08b89.jpg,0.103382,False
+Ganesha/ganesha_15.jpg,Ganesha,9,down_flip_CholaSculptures_resized_images_south_india2c_late_chola_period_-_yoga_narashimha2c_vishnu_in_his_man-lion_avatar_-_1973.187_-_cleveland_museum_of_art.tif.jpg,0.10107,False
+Ganesha/ganesha_15.jpg,Ganesha,10,down_flip_temple_in_india_2159.jpg,0.099945,False
+Ganesha/ganesha_2.jpg,Ganesha,1,newsit (112).jpg,0.04994,False
+Ganesha/ganesha_2.jpg,Ganesha,2,VirupakshaTemple_resized_images_8th_century_shiva_linga_at_mallikarjuna_temple2c_pattadakal_hindu_monuments_karnataka_1.jpg.jpg,0.008815,False
+Ganesha/ganesha_2.jpg,Ganesha,3,temple_in_india_16249.jpg,0.004795,False
+Ganesha/ganesha_2.jpg,Ganesha,4,newsit (151).jpg,0.003255,False
+Ganesha/ganesha_2.jpg,Ganesha,5,left_flip_ChennakesavaTemple_resized_images_chennakesava_temple2c_somanathapura_-_during_phmstbgp-2020_282229.jpg.jpg,0.001994,False
+Ganesha/ganesha_2.jpg,Ganesha,6,newstand (141).jpg,-0.000897,False
+Ganesha/ganesha_2.jpg,Ganesha,7,left_flip_DravidaArchitecture_resized_images_nandi_at_virupaksha_temple2c_pattadakal2c_karnataka.jpg.jpg,-0.002474,False
+Ganesha/ganesha_2.jpg,Ganesha,8,ChennakesavaTemple_resized_images_13th_century_keshava_hindu_temple_somanathpur_india_interior_37.jpg.jpg,-0.002685,False
+Ganesha/ganesha_2.jpg,Ganesha,9,temple_in_india_392.jpg,-0.003388,False
+Ganesha/ganesha_2.jpg,Ganesha,10,left_flip_Ellora%2C_tempio_kailasanatha_%28grotta_16%29%2C_750-775_dc_ca.%2C_tempio_di_shiva%2C_base_con_elefanti_e_altri_animali_08.jpg,-0.004056,False
+Ganesha/ganesha_3.jpg,Ganesha,1,26459344209_278ae992d7_m.jpg,0.015087,False
+Ganesha/ganesha_3.jpg,Ganesha,2,left_temple_in_india_3439.jpg,-0.007059,False
+Ganesha/ganesha_3.jpg,Ganesha,3,21_Madanika_at_Chennakeshava_Temple.jpg,-0.010934,False
+Ganesha/ganesha_3.jpg,Ganesha,4,left_flip_Raavan_lifting_the_Kailash_-_Details_on_the_outer_wall_of_the_Hoysalesvara_Temple.JPG,-0.013763,False
+Ganesha/ganesha_3.jpg,Ganesha,5,Hale_Beedu_Temple_4.JPG,-0.016156,False
+Ganesha/ganesha_3.jpg,Ganesha,6,Wrathful_deities_at_Hoysaleshwara_Temple.jpg,-0.016733,False
+Ganesha/ganesha_3.jpg,Ganesha,7,01_Madanika_at_Chennakeshava_Temple.jpg,-0.018812,False
+Ganesha/ganesha_3.jpg,Ganesha,8,16153413069_f24545e15f_m.jpg,-0.019865,False
+Ganesha/ganesha_3.jpg,Ganesha,9,dravidian_hoysalas_163.jpg,-0.020746,False
+Ganesha/ganesha_3.jpg,Ganesha,10,left_flip_Reliefs%2C_Sculptures%2C_Interior_and_Outer_Wall_of_Hoysaleswara_Temple_Halebidu_DSCN6455_3.jpg,-0.020758,False
+Ganesha/ganesha_4.jpg,Ganesha,1,left_flip_temple_in_india_14502.jpg,-0.009288,False
+Ganesha/ganesha_4.jpg,Ganesha,2,26459344209_278ae992d7_m.jpg,-0.018299,False
+Ganesha/ganesha_4.jpg,Ganesha,3,01_Madanika_at_Chennakeshava_Temple.jpg,-0.022777,False
+Ganesha/ganesha_4.jpg,Ganesha,4,left_flip_Hoysaleshwara_temple%2C_Halebidu_868.jpg,-0.027558,False
+Ganesha/ganesha_4.jpg,Ganesha,5,12_Madanika_at_Chennakeshava_Temple.jpg,-0.028248,False
+Ganesha/ganesha_4.jpg,Ganesha,6,21_Madanika_at_Chennakeshava_Temple.jpg,-0.028431,False
+Ganesha/ganesha_4.jpg,Ganesha,7,11_Madanika_at_Chennakeshava_Temple.jpg,-0.029552,False
+Ganesha/ganesha_4.jpg,Ganesha,8,29_Madanika_at_Chennakeshava_Temple.jpg,-0.031574,False
+Ganesha/ganesha_4.jpg,Ganesha,9,left_flip_HalebidGanesha.jpg,-0.032074,True
+Ganesha/ganesha_4.jpg,Ganesha,10,16153413069_f24545e15f_m.jpg,-0.032105,False
+Ganesha/ganesha_5.jpg,Ganesha,1,temple_in_india_6_283.jpg,0.067686,False
+Ganesha/ganesha_5.jpg,Ganesha,2,32954667004_6e93f5b462_m.jpg,0.059922,False
+Ganesha/ganesha_5.jpg,Ganesha,3,left_flip_temple_in_india_11158.jpg,0.057553,False
+Ganesha/ganesha_5.jpg,Ganesha,4,temple_in_india_10312.jpg,0.056013,False
+Ganesha/ganesha_5.jpg,Ganesha,5,left_flip_temple_in_india_6_407.jpg,0.05557,False
+Ganesha/ganesha_5.jpg,Ganesha,6,15258555156_e2d3a3c2eb_m.jpg,0.055319,False
+Ganesha/ganesha_5.jpg,Ganesha,7,temple_in_india_9891.jpg,0.054422,False
+Ganesha/ganesha_5.jpg,Ganesha,8,temple_in_india_14727.jpg,0.053642,False
+Ganesha/ganesha_5.jpg,Ganesha,9,temple_in_india_6_409.jpg,0.053559,False
+Ganesha/ganesha_5.jpg,Ganesha,10,temple_in_india_2466.jpg,0.05315,False
+Ganesha/ganesha_6.jpg,Ganesha,1,left_flip_temple_in_india_14502.jpg,-0.009288,False
+Ganesha/ganesha_6.jpg,Ganesha,2,26459344209_278ae992d7_m.jpg,-0.018299,False
+Ganesha/ganesha_6.jpg,Ganesha,3,01_Madanika_at_Chennakeshava_Temple.jpg,-0.022777,False
+Ganesha/ganesha_6.jpg,Ganesha,4,left_flip_Hoysaleshwara_temple%2C_Halebidu_868.jpg,-0.027558,False
+Ganesha/ganesha_6.jpg,Ganesha,5,12_Madanika_at_Chennakeshava_Temple.jpg,-0.028248,False
+Ganesha/ganesha_6.jpg,Ganesha,6,21_Madanika_at_Chennakeshava_Temple.jpg,-0.028431,False
+Ganesha/ganesha_6.jpg,Ganesha,7,11_Madanika_at_Chennakeshava_Temple.jpg,-0.029552,False
+Ganesha/ganesha_6.jpg,Ganesha,8,29_Madanika_at_Chennakeshava_Temple.jpg,-0.031574,False
+Ganesha/ganesha_6.jpg,Ganesha,9,left_flip_HalebidGanesha.jpg,-0.032074,True
+Ganesha/ganesha_6.jpg,Ganesha,10,16153413069_f24545e15f_m.jpg,-0.032105,False
+Ganesha/ganesha_7.jpg,Ganesha,1,29e38fc364cdc6e6b991db68ae15f2f1.jpg,0.063461,False
+Ganesha/ganesha_7.jpg,Ganesha,2,left_flip_temple_in_india_1468.jpg,0.050611,False
+Ganesha/ganesha_7.jpg,Ganesha,3,BrihadisvaraTemple_resized_images_thanjavur_brihadishvara_temple_elephant_statue_2.jpg.jpg,0.050539,False
+Ganesha/ganesha_7.jpg,Ganesha,4,temple_in_india_10806.jpg,0.047229,False
+Ganesha/ganesha_7.jpg,Ganesha,5,temple_in_india_14469.jpg,0.044505,False
+Ganesha/ganesha_7.jpg,Ganesha,6,temple_in_india_6897.jpg,0.043984,False
+Ganesha/ganesha_7.jpg,Ganesha,7,temple_in_india_9483.jpg,0.0436,False
+Ganesha/ganesha_7.jpg,Ganesha,8,left_flip_temple_in_india_1558.jpg,0.041298,False
+Ganesha/ganesha_7.jpg,Ganesha,9,CholaSculptures_resized_images_ganesha2c_southern_india2c_chola_dynasty2c_early_12th_century_ad2c_sandstone_-_c396stasiatiska_museet2c_stockholm_-_dsc09394.jpg.jpg,0.04111,True
+Ganesha/ganesha_7.jpg,Ganesha,10,Elephant_gate_sculpture_at_Konark_01.jpg,0.038563,False
+Ganesha/ganesha_8.jpg,Ganesha,1,left_flip_HalebidGanesha.jpg,0.102074,True
+Ganesha/ganesha_8.jpg,Ganesha,2,29e38fc364cdc6e6b991db68ae15f2f1.jpg,0.086984,False
+Ganesha/ganesha_8.jpg,Ganesha,3,1150_CE_Hoysaleswara_temple_Halebidu_Karnataka%2C_Trivikrama_Vishnu.jpg,0.079719,False
+Ganesha/ganesha_8.jpg,Ganesha,4,Hale_Beedu_Temple_4.JPG,0.074758,False
+Ganesha/ganesha_8.jpg,Ganesha,5,left_flip_temple_in_india_14502.jpg,0.070827,False
+Ganesha/ganesha_8.jpg,Ganesha,6,HalebidShivaGegenApasmar.jpg,0.070636,False
+Ganesha/ganesha_8.jpg,Ganesha,7,left_flip_Hoysaleshwara_temple%2C_Halebidu_868.jpg,0.070417,False
+Ganesha/ganesha_8.jpg,Ganesha,8,left_flip_Hoysaleshwara_temple%2C_Halebidu_429.jpg,0.070076,False
+Ganesha/ganesha_8.jpg,Ganesha,9,left_flip_temple_in_india_11973.jpg,0.069528,False
+Ganesha/ganesha_8.jpg,Ganesha,10,Hoysaleshwara_temple%2C_Halebidu_429.jpg,0.069516,False
+Ganesha/ganesha_9.jpg,Ganesha,1,29e38fc364cdc6e6b991db68ae15f2f1.jpg,0.081369,False
+Ganesha/ganesha_9.jpg,Ganesha,2,left_flip_temple_in_india_11614.jpg,0.074168,False
+Ganesha/ganesha_9.jpg,Ganesha,3,left_flip_temple_in_india_8_443.jpg,0.073244,False
+Ganesha/ganesha_9.jpg,Ganesha,4,newsit (113).jpg,0.070458,False
+Ganesha/ganesha_9.jpg,Ganesha,5,left_flip_temple_in_india_1468.jpg,0.066973,False
+Ganesha/ganesha_9.jpg,Ganesha,6,BrihadisvaraTemple_resized_images_thanjavur_brihadishvara_temple_elephant_statue_2.jpg.jpg,0.06565,False
+Ganesha/ganesha_9.jpg,Ganesha,7,Front_view_of_elephant.JPG,0.065344,False
+Ganesha/ganesha_9.jpg,Ganesha,8,newsit (166).jpg,0.062677,False
+Ganesha/ganesha_9.jpg,Ganesha,9,Architecture_Display_in_Halebid.JPG,0.061504,False
+Ganesha/ganesha_9.jpg,Ganesha,10,temple_in_india_9_453.jpg,0.060825,False
+Hanuman/hanuman_1.jpg,Hanuman,1,newstand (110).jpg,0.095411,False
+Hanuman/hanuman_1.jpg,Hanuman,2,left_flip_temple_in_india_6491.jpg,0.093169,False
+Hanuman/hanuman_1.jpg,Hanuman,3,temple_in_india_13943.jpg,0.093149,False
+Hanuman/hanuman_1.jpg,Hanuman,4,VirupakshaTemple_resized_images_pattadakal_si1495.jpg.jpg,0.091552,False
+Hanuman/hanuman_1.jpg,Hanuman,5,newsit (1).jpeg,0.090703,False
+Hanuman/hanuman_1.jpg,Hanuman,6,left_flip_CholaArchitecture_resized_images_vaidyanatha_temples_complex_reliefs_and_inscriptions2c_pushpagiri2c_andhra_pradesh_india_-_12.jpg.jpg,0.090363,False
+Hanuman/hanuman_1.jpg,Hanuman,7,temple_in_india_9032.jpg,0.090179,False
+Hanuman/hanuman_1.jpg,Hanuman,8,dravidian_vijayanagara_500.jpg,0.089196,False
+Hanuman/hanuman_1.jpg,Hanuman,9,left_flip_dravidian_vijayanagara_500.jpg,0.085569,False
+Hanuman/hanuman_1.jpg,Hanuman,10,CholaArchitecture_resized_images_9th_century_nakkula_temple2c_biccavolu_andhra_pradesh_-_16.jpg.jpg,0.085259,False
+Hanuman/hanuman_10.jpg,Hanuman,1,left_flip_temple_in_india_16562.jpg,0.049928,False
+Hanuman/hanuman_10.jpg,Hanuman,2,0bebaa513b416fa712960fe103d5905a.jpg,0.049042,False
+Hanuman/hanuman_10.jpg,Hanuman,3,newstand (165).jpg,0.048257,False
+Hanuman/hanuman_10.jpg,Hanuman,4,newsit (104).jpg,0.047497,False
+Hanuman/hanuman_10.jpg,Hanuman,5,newsit (163).jpg,0.045665,False
+Hanuman/hanuman_10.jpg,Hanuman,6,newsit (137).jpg,0.044127,False
+Hanuman/hanuman_10.jpg,Hanuman,7,16779479483_9cc77fdce0_m.jpg,0.043393,False
+Hanuman/hanuman_10.jpg,Hanuman,8,newsit (172).jpg,0.042472,False
+Hanuman/hanuman_10.jpg,Hanuman,9,23185942041_72b17a2ed0_m.jpg,0.04189,False
+Hanuman/hanuman_10.jpg,Hanuman,10,0583821449238e09eeea62b43264f630.jpg,0.04179,False
+Hanuman/hanuman_2.jpg,Hanuman,1,newstand (14).jpg,0.00324,False
+Hanuman/hanuman_2.jpg,Hanuman,2,CholaArchitecture_resized_images_vaidyanatha_temples_complex_reliefs_and_inscriptions2c_pushpagiri2c_andhra_pradesh_india_-_10.jpg.jpg,0.001707,False
+Hanuman/hanuman_2.jpg,Hanuman,3,left_flip_ChennakesavaTemple_resized_images_13th_century_keshava_hindu_temple_somanathpur_india_interior_42.jpg.jpg,0.000755,False
+Hanuman/hanuman_2.jpg,Hanuman,4,ChennakesavaTemple_resized_images_13th_century_keshava_hindu_temple_somanathpur_india_interior_32.jpg.jpg,0.000529,False
+Hanuman/hanuman_2.jpg,Hanuman,5,ChennakesavaTemple_resized_images_13th_century_keshava_hindu_temple_somanathpur_india_interior_42.jpg.jpg,8.4e-05,False
+Hanuman/hanuman_2.jpg,Hanuman,6,left_flip_ChennakesavaTemple_resized_images_13th_century_keshava_hindu_temple_somanathpur_india_interior_32.jpg.jpg,-0.001139,False
+Hanuman/hanuman_2.jpg,Hanuman,7,dravidian_gangas_19.jpg,-0.00182,False
+Hanuman/hanuman_2.jpg,Hanuman,8,newstand (114).jpg,-0.002609,False
+Hanuman/hanuman_2.jpg,Hanuman,9,left_flip_temple_in_india_4842.jpg,-0.002967,False
+Hanuman/hanuman_2.jpg,Hanuman,10,left_flip_Hoysaleshwara_temple%2C_Halebidu_623.jpg,-0.00356,False
+Hanuman/hanuman_3.jpg,Hanuman,1,left_flip_temple_in_india_0_138.jpg,0.128283,False
+Hanuman/hanuman_3.jpg,Hanuman,2,Biranchinarayana_Temple.jpg,0.121397,False
+Hanuman/hanuman_3.jpg,Hanuman,3,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28529.jpg.jpg,0.108102,False
+Hanuman/hanuman_3.jpg,Hanuman,4,left_flip_BrihadisvaraTemple_resized_images_brihadeeswarar_temple_3506.jpg.jpg,0.106317,False
+Hanuman/hanuman_3.jpg,Hanuman,5,left_BrihadisvaraTemple_resized_images_brihadeeswarar_temple_3506.jpg.jpg,0.10477,False
+Hanuman/hanuman_3.jpg,Hanuman,6,left_flip_BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2812229_283723925239029.jpg.jpg,0.103398,False
+Hanuman/hanuman_3.jpg,Hanuman,7,left_flip_temple_in_india_3216.jpg,0.102657,False
+Hanuman/hanuman_3.jpg,Hanuman,8,down_flip_temple_in_india_0_140.jpg,0.10183,False
+Hanuman/hanuman_3.jpg,Hanuman,9,left_flip_temple_in_india_4024.jpg,0.100697,False
+Hanuman/hanuman_3.jpg,Hanuman,10,temple_in_india_6897.jpg,0.098385,False
+Hanuman/hanuman_4.jpg,Hanuman,1,11_Madanika_at_Chennakeshava_Temple.jpg,0.091848,False
+Hanuman/hanuman_4.jpg,Hanuman,2,32954358874_c650636c27_m.jpg,0.091176,False
+Hanuman/hanuman_4.jpg,Hanuman,3,14707403042_f599086e89_m.jpg,0.083801,False
+Hanuman/hanuman_4.jpg,Hanuman,4,left_flip_Ellora%2C_tempio_kailasanatha_%28grotta_16%29%2C_750-775_dc_ca.%2C_gopuram%2C_Gajalakshmi_tra_due_dvarapala_%28guardiani%29_04.jpg,0.083744,False
+Hanuman/hanuman_4.jpg,Hanuman,5,CholaSculptures_resized_images_dd0berxv0aahobt.jpg.jpg,0.080597,False
+Hanuman/hanuman_4.jpg,Hanuman,6,Ellora%2C_tempio_kailasanatha_%28grotta_16%29%2C_750-775_dc_ca.%2C_gopuram%2C_Gajalakshmi_tra_due_dvarapala_%28guardiani%29_04.jpg,0.079756,False
+Hanuman/hanuman_4.jpg,Hanuman,7,left_flip_dravidian_gangas_136.jpg,0.079456,False
+Hanuman/hanuman_4.jpg,Hanuman,8,left_flip_Reliefs%2C_Sculptures%2C_and_Interior_of_Hoysaleswara_Temple_Halebidu_DSCN6284_4.jpg,0.079261,False
+Hanuman/hanuman_4.jpg,Hanuman,9,2530020211_1dcacf3343_m.jpg,0.077833,False
+Hanuman/hanuman_4.jpg,Hanuman,10,dravidian_south_3516.jpg,0.077656,False
+Hanuman/hanuman_5.jpg,Hanuman,1,left_flip_VirupakshaTemple_resized_images_pattadakal_47.jpg.jpg,0.027486,False
+Hanuman/hanuman_5.jpg,Hanuman,2,left_flip_temple_in_india_12236.jpg,0.0255,False
+Hanuman/hanuman_5.jpg,Hanuman,3,left_flip_dravidian_hoysalas_182.jpg,0.023592,False
+Hanuman/hanuman_5.jpg,Hanuman,4,Hoysaleswara_Temple_Halebid_Karnataka_by_Sumita_Roy_Dutta_DSCN6261_23.jpg,0.020821,False
+Hanuman/hanuman_5.jpg,Hanuman,5,left_flip_DravidaArchitecture_resized_images_8th_century_nandi_facing_the_shiva_linga_in_sacrum_sanctum_at_virupaksha_temple2c_pattadakal_hindu_monuments_karnataka_2.jpg.jpg,0.018459,False
+Hanuman/hanuman_5.jpg,Hanuman,6,BrihadisvaraTemple_resized_images_1010_ce_brihadishwara_shiva_temple2c_nandi2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28229.jpg.jpg,0.018381,False
+Hanuman/hanuman_5.jpg,Hanuman,7,left_flip_CholaSculptures_resized_images_ganesha_sculpture_in_relief_in_the_arakeshwara_temple_at_hole_alur_1.jpg.jpg,0.01644,False
+Hanuman/hanuman_5.jpg,Hanuman,8,temple_in_india_11009.jpg,0.015495,False
+Hanuman/hanuman_5.jpg,Hanuman,9,DravidaArchitecture_resized_images_chennakeshava_swamy_temple2c_chinnamarur_telangana_10.jpg.jpg,0.015106,False
+Hanuman/hanuman_5.jpg,Hanuman,10,left_flip_Reliefs%2C_Sculptures%2C_and_Interior_of_Hoysaleswara_Temple_Halebidu_DSCN6284_4.jpg,0.014735,False
+Hanuman/hanuman_6.jpg,Hanuman,1,0dbf5a4550553e58dea141a5458f15bf.jpg,0.248374,False
+Hanuman/hanuman_6.jpg,Hanuman,2,019bbdd8b898c990905cb111571a1db5.jpg,0.245716,False
+Hanuman/hanuman_6.jpg,Hanuman,3,newsit (108).jpg,0.24262,False
+Hanuman/hanuman_6.jpg,Hanuman,4,1a3d5fd32909a216fd62b722b9dd5345.jpg,0.240507,False
+Hanuman/hanuman_6.jpg,Hanuman,5,newsit (128).jpg,0.238576,False
+Hanuman/hanuman_6.jpg,Hanuman,6,left_flip_CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,0.23795,False
+Hanuman/hanuman_6.jpg,Hanuman,7,newsit (134).jpg,0.236743,False
+Hanuman/hanuman_6.jpg,Hanuman,8,CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,0.233032,False
+Hanuman/hanuman_6.jpg,Hanuman,9,CholaSculptures_resized_images_parvati2c_11_-_12th_centuries2c_art_gallery2c_thanjavur.jpg.jpg,0.232163,False
+Hanuman/hanuman_6.jpg,Hanuman,10,left_flip_CholaSculptures_resized_images_art_gallery_28tanjore2c_inde29_281390266737729.jpg.jpg,0.232078,False
+Hanuman/hanuman_7.jpg,Hanuman,1,left_flip_temple_in_india_15782.jpg,0.179284,False
+Hanuman/hanuman_7.jpg,Hanuman,2,23198594904_a3875c3eb1_m.jpg,0.169889,False
+Hanuman/hanuman_7.jpg,Hanuman,3,18950423814_8188e6d75f_m.jpg,0.16489,False
+Hanuman/hanuman_7.jpg,Hanuman,4,temple_in_india_888.jpg,0.163787,False
+Hanuman/hanuman_7.jpg,Hanuman,5,Halebeedu%2C_Karnataka_573121%2C_India_-_panoramio_%284%29.jpg,0.16368,False
+Hanuman/hanuman_7.jpg,Hanuman,6,temple_in_india_392.jpg,0.161922,False
+Hanuman/hanuman_7.jpg,Hanuman,7,temple_in_india_15904.jpg,0.161396,False
+Hanuman/hanuman_7.jpg,Hanuman,8,temple_in_india_6861.jpg,0.160405,False
+Hanuman/hanuman_7.jpg,Hanuman,9,left_flip_Relief_sculptures_of_Brahma_%28l%29_and_Saraswati_%28r%29_from_the_Hoysala_period_at_the_ASI_museum_in_Halebidu.JPG,0.159218,False
+Hanuman/hanuman_7.jpg,Hanuman,10,20605113218_4bf50dbbe1_m.jpg,0.159156,False
+Hanuman/hanuman_8.jpg,Hanuman,1,newstand (114).jpg,0.161541,False
+Hanuman/hanuman_8.jpg,Hanuman,2,15732568998_c0fbb143b2_m.jpg,0.156998,False
+Hanuman/hanuman_8.jpg,Hanuman,3,newstand (175).jpg,0.156585,False
+Hanuman/hanuman_8.jpg,Hanuman,4,left_flip_temple_in_india_3103.jpg,0.15624,False
+Hanuman/hanuman_8.jpg,Hanuman,5,temple_in_india_3103.jpg,0.154353,False
+Hanuman/hanuman_8.jpg,Hanuman,6,237558169_d024069f59_m.jpg,0.150678,False
+Hanuman/hanuman_8.jpg,Hanuman,7,left_flip_CholaSculptures_resized_images_tamil_nadu2c_epoca_cola2c_kali2c_xii_sec_03.jpg.jpg,0.149195,False
+Hanuman/hanuman_8.jpg,Hanuman,8,temple_in_india_365.jpg,0.14794,False
+Hanuman/hanuman_8.jpg,Hanuman,9,22538429193_4e95013ed7_m.jpg,0.14771,False
+Hanuman/hanuman_8.jpg,Hanuman,10,left_flip_CholaSculptures_resized_images_shiva_musc3a9e_guimet_26971.jpg.jpg,0.147345,False
+Hanuman/hanuman_9.jpg,Hanuman,1,newstand (114).jpg,0.085737,False
+Hanuman/hanuman_9.jpg,Hanuman,2,left_flip_temple_in_india_3103.jpg,0.078163,False
+Hanuman/hanuman_9.jpg,Hanuman,3,newsit (134).jpg,0.075846,False
+Hanuman/hanuman_9.jpg,Hanuman,4,0dbf5a4550553e58dea141a5458f15bf.jpg,0.072692,False
+Hanuman/hanuman_9.jpg,Hanuman,5,newstand (13).jpg,0.072234,False
+Hanuman/hanuman_9.jpg,Hanuman,6,newstand (125).jpg,0.070971,False
+Hanuman/hanuman_9.jpg,Hanuman,7,temple_in_india_3103.jpg,0.069493,False
+Hanuman/hanuman_9.jpg,Hanuman,8,down_flip_ChennakesavaTemple_resized_images_12th-century_sculpture_at_belur_hindu_temple2c_woman_watching_herself_in_a_mirror.jpg.jpg,0.065882,False
+Hanuman/hanuman_9.jpg,Hanuman,9,CholaSculptures_resized_images_hero_stone_with_relief_sculpture_in_the_arakeshwara_temple_at_hole_alur_1.jpg.jpg,0.065666,False
+Hanuman/hanuman_9.jpg,Hanuman,10,newstand (172).jpg,0.064637,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,1,left_flip_NagaraArchitecture_resized_images_11th_century_bhoramdeo_temple_kawardha_2c_chhattisgarh_-_musicians_2.jpg.jpg,0.104227,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,2,newstand (143).jpg,0.102585,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,3,NagaraArchitecture_resized_images_11th_century_bhoramdeo_temple_kawardha_2c_chhattisgarh_-_musicians_2.jpg.jpg,0.100042,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,4,temple_in_india_4508.jpg,0.098336,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,5,temple_in_india_16532.jpg,0.098336,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,6,newstand (145).jpg,0.095928,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,7,left_flip_temple_in_india_10707.jpg,0.095343,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,8,left_flip_temple_in_india_4802.jpg,0.095188,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,9,newstand (170).jpg,0.094614,False
+Lakshmi/lakshmi_1.jpg,Lakshmi,10,32954667004_6e93f5b462_m.jpg,0.094158,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,1,newstand (11).jpg,0.11972,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,2,0bebaa513b416fa712960fe103d5905a.jpg,0.119333,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,3,2439154946_45bffebe06_m.jpg,0.111492,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,4,newsit (177).jpg,0.111409,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,5,207d008782be892c08ffd792dd562185.jpg,0.11035,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,6,27568170375_9ea5215114_m.jpg,0.106524,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,7,newsit (181).jpg,0.105026,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,8,20605113218_4bf50dbbe1_m.jpg,0.103405,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,9,left_flip_temple_in_india_8_459.jpg,0.10192,False
+Lakshmi/lakshmi_10.jpg,Lakshmi,10,29451704845_6a0541b08c_m.jpg,0.101171,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,1,HalebidShivaGegenApasmar.jpg,0.071356,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,2,left_flip_Hoysaleshwara_temple%2C_Halebidu_868.jpg,0.070507,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,3,31_Proud_lady.jpg,0.059808,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,4,left_temple_in_india_3439.jpg,0.059459,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,5,left_flip_temple_in_india_14502.jpg,0.059411,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,6,Hoysaleshwara_temple%2C_Halebidu_429.jpg,0.058457,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,7,left_flip_Hoysaleshwara_temple%2C_Halebidu_429.jpg,0.057557,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,8,left_flip_Halebidu_Temple_Inscriptions-1.jpg,0.057515,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,9,left_flip_Varaha_avatar_at_the_Hoysaleswara_Temple_at_Halebidu.png,0.056957,False
+Lakshmi/lakshmi_2.jpg,Lakshmi,10,27_Madanika_at_Chennakeshava_Temple.jpg,0.056104,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,1,0fdc26f301b6160fc6a74e3359fabbe8.jpg,0.066498,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,2,CholaSculptures_resized_images_buddha_shakyamuni_seated_in_meditation_28dhyanamudra29.jpg.jpg,0.066424,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,3,left_flip_temple_in_india_12_158.jpg,0.066248,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,4,left_flip_ChennakesavaTemple_resized_images_12th_century_chennakesava_temple_at_somanathapura2c_karnataka2c_india_meditating_vishnu.jpg.jpg,0.065321,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,5,left_flip_temple_in_india_12_78.jpg,0.064354,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,6,1d4c675fe232b50f237114633e9774bd.jpg,0.064303,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,7,left_flip_Kailasanathar_temple%2C_Patteeswaram_%286%29.jpg,0.063945,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,8,left_flip_temple_in_india_12017.jpg,0.062878,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,9,28693435512_9d991b0ab5_m.jpg,0.062635,False
+Lakshmi/lakshmi_3.jpg,Lakshmi,10,222631c3fd71f098d370f18961370831.jpg,0.0618,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,1,1d4c675fe232b50f237114633e9774bd.jpg,0.003018,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,2,left_flip_ChennakesavaTemple_resized_images_12th_century_chennakesava_temple_at_somanathapura2c_karnataka2c_india_meditating_vishnu.jpg.jpg,0.000154,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,3,BrihadisvaraTemple_resized_images_arulmigu_peruvudaiyar_temple_at_gangaikonda_cholapuram_28goddes29.jpg.jpg,-0.005834,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,4,temple_in_india_9971.jpg,-0.007421,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,5,left_flip_BrihadisvaraTemple_resized_images_gangaikondacholapuram_sculptures_13.jpg.jpg,-0.00844,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,6,left_flip_temple_in_india_14368.jpg,-0.009863,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,7,CholaArchitecture_resized_images_9th_century_virabhadra_temple_artwork_sanctum_entrance2c_yamuna_goddess_on_turtle2c_biccavolu_andhra_pradesh.jpg.jpg,-0.010014,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,8,left_flip_BrihadisvaraTemple_resized_images_1000_yrs_2cbig_temple_tanjore_t.n_-_panoramio_28729.jpg.jpg,-0.011832,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,9,newsit (100).jpg,-0.013296,False
+Lakshmi/lakshmi_4.jpg,Lakshmi,10,left_flip_temple_in_india_12_78.jpg,-0.013504,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,1,temple_in_india_2115.jpg,0.068534,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,2,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28729.jpg.jpg,0.059995,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,3,Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2828%29_%2837426676562%29.jpg,0.058099,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,4,left_flip_BrihadisvaraTemple_resized_images_gangaikonda_cholapuram_sculpture_24.jpg.jpg,0.055416,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,5,left_flip_Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2828%29_%2837426676562%29.jpg,0.055369,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,6,temple_in_india_3327.jpg,0.053307,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,7,left_flip_Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2829%29_%2836787761683%29.jpg,0.050902,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,8,newstand (143).jpg,0.050643,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,9,temple_in_india_2173.jpg,0.050067,False
+Lakshmi/lakshmi_5.jpg,Lakshmi,10,temple_in_india_14727.jpg,0.050067,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,1,left_flip_temple_in_india_12753.jpg,0.012996,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,2,temple_in_india_9_486.jpg,0.004955,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,3,temple_in_india_9_131.jpg,-0.000716,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,4,Hale_Beedu_Temple_12.JPG,-0.003339,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,5,left_temple_in_india_9_490.jpg,-0.007891,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,6,left_flip_temple_in_india_15815.jpg,-0.009021,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,7,left_flip_Halebidu_Temple_Inscriptions-1.jpg,-0.009701,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,8,left_flip_Hoysaleshwara_temple%2C_Halebidu_396.jpg,-0.010798,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,9,Hoysaleshwara_temple%2C_Halebidu_465.jpg,-0.014526,False
+Lakshmi/lakshmi_6.jpg,Lakshmi,10,left_flip_Hoysaleshwara_temple%2C_Halebidu_379.jpg,-0.015003,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,1,237558169_d024069f59_m.jpg,0.14773,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,2,0bebaa513b416fa712960fe103d5905a.jpg,0.147181,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,3,newsit (137).jpg,0.143492,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,4,207d008782be892c08ffd792dd562185.jpg,0.140597,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,5,20605113218_4bf50dbbe1_m.jpg,0.14029,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,6,08637ce091814810b2c0a884bfe86f18.jpg,0.137367,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,7,23185942041_72b17a2ed0_m.jpg,0.137247,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,8,temple_in_india_8_187.jpg,0.135331,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,9,CholaSculptures_resized_images_british_museum_asia_11.jpg.jpg,0.134199,False
+Lakshmi/lakshmi_7.jpg,Lakshmi,10,15732568998_c0fbb143b2_m.jpg,0.132786,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,1,left_flip_temple_in_india_12753.jpg,0.040761,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,2,Hoysaleshwara_temple%2C_Halebidu_465.jpg,0.027778,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,3,left_flip_ChennakesavaTemple_resized_images_12th_century_meditating_lakshmi_chennakesava_temple_at_somanathapura2c_karnataka2c_india.jpg.jpg,0.027634,True
+Lakshmi/lakshmi_8.jpg,Lakshmi,4,left_flip_temple_in_india_14502.jpg,0.027563,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,5,26459344209_278ae992d7_m.jpg,0.027058,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,6,left_flip_temple_in_india_10420.jpg,0.024874,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,7,left_flip_Halebidu_Temple_Inscriptions-1.jpg,0.024478,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,8,12_Madanika_at_Chennakeshava_Temple.jpg,0.02432,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,9,22_Madanika_at_Chennakeshava_Temple.jpg,0.023747,False
+Lakshmi/lakshmi_8.jpg,Lakshmi,10,left_flip_ChennakesavaTemple_resized_images_12th_century_chennakesava_temple_at_somanathapura2c_karnataka2c_india_meditating_vishnu.jpg.jpg,0.023029,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,1,temple_in_india_9_486.jpg,0.081498,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,2,down_Hoysaleshwara_temple%2C_Halebidu_868.jpg,0.081295,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,3,down_temple_in_india_10420.jpg,0.074861,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,4,down_Dancing_Ganesha_in_relief_at_Hoysaleshwara_temple%2C_Halebidu.jpg,0.074578,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,5,left_flip_temple_in_india_521.jpg,0.073486,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,6,down_Hoysaleshwara_temple%2C_Halebidu_870.jpg,0.071845,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,7,temple_in_india_6756.jpg,0.071841,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,8,left_flip_Stone_carving_in_Halebeedu.JPG,0.070434,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,9,1faae1a82c8053af70ead6c120c92db4.jpg,0.069011,False
+Lakshmi/lakshmi_9.jpg,Lakshmi,10,down_flip_temple_in_india_9_242.jpg,0.06855,False
+Murugar/murugar_1.jpg,Murugar,1,right_temple_in_india_9_204.jpg,0.195095,False
+Murugar/murugar_1.jpg,Murugar,2,left_temple_in_india_9_175.jpg,0.19243,False
+Murugar/murugar_1.jpg,Murugar,3,newsit (161).jpg,0.189981,False
+Murugar/murugar_1.jpg,Murugar,4,temple_in_india_9_220.jpg,0.189043,False
+Murugar/murugar_1.jpg,Murugar,5,left_flip_temple_in_india_9_220.jpg,0.186738,False
+Murugar/murugar_1.jpg,Murugar,6,left_flip_temple_in_india_8_176.jpg,0.186049,False
+Murugar/murugar_1.jpg,Murugar,7,left_flip_temple_in_india_9_179.jpg,0.185606,False
+Murugar/murugar_1.jpg,Murugar,8,temple_in_india_7935.jpg,0.185293,False
+Murugar/murugar_1.jpg,Murugar,9,right_temple_in_india_9_215.jpg,0.183063,False
+Murugar/murugar_1.jpg,Murugar,10,down_temple_in_india_14513.jpg,0.182404,False
+Murugar/murugar_10.jpg,Murugar,1,left_flip_CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,0.156004,False
+Murugar/murugar_10.jpg,Murugar,2,CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,0.155414,False
+Murugar/murugar_10.jpg,Murugar,3,13727108415_8e03c81008_m.jpg,0.149225,False
+Murugar/murugar_10.jpg,Murugar,4,temple_in_india_15904.jpg,0.147484,False
+Murugar/murugar_10.jpg,Murugar,5,23092599696_ab47b57ac4_m.jpg,0.144282,False
+Murugar/murugar_10.jpg,Murugar,6,left_flip_CholaSculptures_resized_images_shiva_musc3a9e_guimet_26971.jpg.jpg,0.141489,False
+Murugar/murugar_10.jpg,Murugar,7,20800134881_de13aa5d2d_m.jpg,0.139259,False
+Murugar/murugar_10.jpg,Murugar,8,30720840965_1df8b7280f_m.jpg,0.13759,False
+Murugar/murugar_10.jpg,Murugar,9,22753586247_3fddc7d13d_m.jpg,0.13669,False
+Murugar/murugar_10.jpg,Murugar,10,newstand (174).jpg,0.135657,False
+Murugar/murugar_11.jpg,Murugar,1,left_flip_temple_in_india_2825.jpg,0.126908,False
+Murugar/murugar_11.jpg,Murugar,2,dravidian_vijayanagara_106.jpg,0.116537,False
+Murugar/murugar_11.jpg,Murugar,3,newsit (137).jpg,0.110528,False
+Murugar/murugar_11.jpg,Murugar,4,temple_in_india_8_418.jpg,0.109396,False
+Murugar/murugar_11.jpg,Murugar,5,CholaSculptures_resized_images_later_chola_period_statues2c_ca._1100_-_13302c_government_museum2c_chennai_283678284210329.jpg.jpg,0.108542,False
+Murugar/murugar_11.jpg,Murugar,6,1d4c675fe232b50f237114633e9774bd.jpg,0.108467,False
+Murugar/murugar_11.jpg,Murugar,7,newsit (165).jpg,0.108455,False
+Murugar/murugar_11.jpg,Murugar,8,CholaSculptures_resized_images_dd0berxv0aahobt.jpg.jpg,0.107746,False
+Murugar/murugar_11.jpg,Murugar,9,left_flip_Kailasanathar_temple%2C_Patteeswaram_%286%29.jpg,0.107398,False
+Murugar/murugar_11.jpg,Murugar,10,CholaSculptures_resized_images_vishnu2c_stone_sculpture2c_thanjavur_palace_museum_28229.jpg.jpg,0.107293,False
+Murugar/murugar_12.jpg,Murugar,1,temple_in_india_15889.jpg,0.064253,False
+Murugar/murugar_12.jpg,Murugar,2,left_flip_BrihadisvaraTemple_resized_images_gangaikonda_cholapuram_sculpture_24.jpg.jpg,0.060941,False
+Murugar/murugar_12.jpg,Murugar,3,temple_in_india_4_167.jpg,0.057882,False
+Murugar/murugar_12.jpg,Murugar,4,left_flip_Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2828%29_%2837426676562%29.jpg,0.057305,False
+Murugar/murugar_12.jpg,Murugar,5,Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2828%29_%2837426676562%29.jpg,0.055905,False
+Murugar/murugar_12.jpg,Murugar,6,BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2813229_282364499953829.jpg.jpg,0.055737,False
+Murugar/murugar_12.jpg,Murugar,7,BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2814229_283749745429129.jpg.jpg,0.053794,False
+Murugar/murugar_12.jpg,Murugar,8,temple_in_india_666.jpg,0.053355,False
+Murugar/murugar_12.jpg,Murugar,9,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28729.jpg.jpg,0.052667,False
+Murugar/murugar_12.jpg,Murugar,10,left_flip_temple_in_india_14806.jpg,0.052633,False
+Murugar/murugar_13.jpg,Murugar,1,CholaSculptures_resized_images_ganesha2c_southern_india2c_chola_dynasty2c_early_12th_century_ad2c_sandstone_-_c396stasiatiska_museet2c_stockholm_-_dsc09394.jpg.jpg,0.213838,False
+Murugar/murugar_13.jpg,Murugar,2,0bebaa513b416fa712960fe103d5905a.jpg,0.207819,False
+Murugar/murugar_13.jpg,Murugar,3,1-Bronze-Kali-Seated-With-Arch.jpg,0.206131,False
+Murugar/murugar_13.jpg,Murugar,4,left_flip_temple_in_india_16562.jpg,0.203505,False
+Murugar/murugar_13.jpg,Murugar,5,newsit (139).jpg,0.203285,False
+Murugar/murugar_13.jpg,Murugar,6,left_flip_temple_in_india_1468.jpg,0.202176,False
+Murugar/murugar_13.jpg,Murugar,7,temple_in_india_15904.jpg,0.200679,False
+Murugar/murugar_13.jpg,Murugar,8,0583821449238e09eeea62b43264f630.jpg,0.200432,False
+Murugar/murugar_13.jpg,Murugar,9,24dafd6f39ea8cf6842fd10f5043a89f.jpg,0.199223,False
+Murugar/murugar_13.jpg,Murugar,10,207d008782be892c08ffd792dd562185.jpg,0.198538,False
+Murugar/murugar_14.jpg,Murugar,1,temple_in_india_2782.jpg,0.150846,False
+Murugar/murugar_14.jpg,Murugar,2,left_flip_temple_in_india_16562.jpg,0.148662,False
+Murugar/murugar_14.jpg,Murugar,3,left_flip_Reliefs%2C_Sculptures%2C_Interior_and_Outer_Wall_of_Hoysaleswara_Temple_Halebidu_DSCN6349_11.jpg,0.141696,False
+Murugar/murugar_14.jpg,Murugar,4,left_flip_dravidian_south_6.jpg,0.141203,False
+Murugar/murugar_14.jpg,Murugar,5,left_temple_in_india_9_490.jpg,0.14006,False
+Murugar/murugar_14.jpg,Murugar,6,left_temple_in_india_1155.jpg,0.13946,False
+Murugar/murugar_14.jpg,Murugar,7,2209681338_d402bc1801_m.jpg,0.139355,False
+Murugar/murugar_14.jpg,Murugar,8,newsit (157).jpg,0.138931,False
+Murugar/murugar_14.jpg,Murugar,9,left_flip_temple_in_india_8_421.jpg,0.138883,False
+Murugar/murugar_14.jpg,Murugar,10,left_flip_temple_in_india_8_170.jpg,0.138883,False
+Murugar/murugar_15.jpg,Murugar,1,temple_in_india_14727.jpg,0.088403,False
+Murugar/murugar_15.jpg,Murugar,2,temple_in_india_2115.jpg,0.086679,False
+Murugar/murugar_15.jpg,Murugar,3,CholaSculptures_resized_images_brihadishwara_temple2c_dancers_relief2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_282629_283723794452029.jpg.jpg,0.083263,False
+Murugar/murugar_15.jpg,Murugar,4,temple_in_india_0_361.jpg,0.082146,False
+Murugar/murugar_15.jpg,Murugar,5,temple_in_india_3070.jpg,0.080111,False
+Murugar/murugar_15.jpg,Murugar,6,ChennakesavaTemple_resized_images_chennakesava_temple2c_somanathapura_-_during_phmstbgp-2020_288029.jpg.jpg,0.079565,False
+Murugar/murugar_15.jpg,Murugar,7,Erotic_sculptures%2C_Konark_13.jpg,0.077563,False
+Murugar/murugar_15.jpg,Murugar,8,temple_in_india_3967.jpg,0.077344,False
+Murugar/murugar_15.jpg,Murugar,9,left_flip_CholaSculptures_resized_images_le_temple_de28099airavateshwara_28darasuram2c_inde29_281409679952329.jpg.jpg,0.075668,False
+Murugar/murugar_15.jpg,Murugar,10,left_flip_CholaSculptures_resized_images_brihadishwara_temple2c_dancers_relief2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_282629_283723794452029.jpg.jpg,0.075657,False
+Murugar/murugar_2.jpg,Murugar,1,newstand (115).jpg,0.211305,False
+Murugar/murugar_2.jpg,Murugar,2,newstand (112).jpg,0.210326,False
+Murugar/murugar_2.jpg,Murugar,3,newstand (180).jpg,0.198041,False
+Murugar/murugar_2.jpg,Murugar,4,1-Bronze-Kali-Seated-With-Arch.jpg,0.19796,False
+Murugar/murugar_2.jpg,Murugar,5,newstand (175).jpg,0.196544,False
+Murugar/murugar_2.jpg,Murugar,6,15732568998_c0fbb143b2_m.jpg,0.192459,False
+Murugar/murugar_2.jpg,Murugar,7,down_CholaSculptures_resized_images_cholabronze.jpg.jpg,0.190323,False
+Murugar/murugar_2.jpg,Murugar,8,newstand (13).jpg,0.188906,False
+Murugar/murugar_2.jpg,Murugar,9,temple_in_india_15904.jpg,0.186721,False
+Murugar/murugar_2.jpg,Murugar,10,08637ce091814810b2c0a884bfe86f18.jpg,0.186449,False
+Murugar/murugar_3.jpg,Murugar,1,CholaArchitecture_resized_images_11th_12th_century_chaya_someshwara_temple2c_panagal_telangana_india_-_16.jpg.jpg,0.13796,False
+Murugar/murugar_3.jpg,Murugar,2,left_flip_VirupakshaTemple_resized_images_pattadakal_47.jpg.jpg,0.135504,False
+Murugar/murugar_3.jpg,Murugar,3,left_flip_DravidaArchitecture_resized_images_8th_century_nandi_facing_the_shiva_linga_in_sacrum_sanctum_at_virupaksha_temple2c_pattadakal_hindu_monuments_karnataka_2.jpg.jpg,0.134343,False
+Murugar/murugar_3.jpg,Murugar,4,temple_in_india_8177.jpg,0.125864,False
+Murugar/murugar_3.jpg,Murugar,5,BrihadisvaraTemple_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28329.jpg.jpg,0.125857,False
+Murugar/murugar_3.jpg,Murugar,6,down_temple_in_india_17329.jpg,0.124184,False
+Murugar/murugar_3.jpg,Murugar,7,left_flip_temple_in_india_10981.jpg,0.124028,False
+Murugar/murugar_3.jpg,Murugar,8,down_flip_temple_in_india_2159.jpg,0.122349,False
+Murugar/murugar_3.jpg,Murugar,9,temple_in_india_6_315.jpg,0.122154,False
+Murugar/murugar_3.jpg,Murugar,10,22850142190_49fc70c640_m.jpg,0.121788,False
+Murugar/murugar_4.jpg,Murugar,1,temple_in_india_1859.jpg,0.176354,False
+Murugar/murugar_4.jpg,Murugar,2,temple_in_india_1632.jpg,0.14907,False
+Murugar/murugar_4.jpg,Murugar,3,temple_in_india_10871.jpg,0.143886,False
+Murugar/murugar_4.jpg,Murugar,4,left_flip_temple_in_india_7_239.jpg,0.133418,False
+Murugar/murugar_4.jpg,Murugar,5,temple_in_india_547.jpg,0.132347,False
+Murugar/murugar_4.jpg,Murugar,6,temple_in_india_10232.jpg,0.131477,False
+Murugar/murugar_4.jpg,Murugar,7,left_flip_temple_in_india_11046.jpg,0.126838,False
+Murugar/murugar_4.jpg,Murugar,8,left_flip_temple_in_india_4995.jpg,0.123098,False
+Murugar/murugar_4.jpg,Murugar,9,temple_in_india_331.jpg,0.120056,False
+Murugar/murugar_4.jpg,Murugar,10,left_flip_temple_in_india_12824.jpg,0.119578,False
+Murugar/murugar_5.jpg,Murugar,1,Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2843%29_%2836787608833%29.jpg,0.10021,False
+Murugar/murugar_5.jpg,Murugar,2,left_flip_temple_in_india_10981.jpg,0.089082,False
+Murugar/murugar_5.jpg,Murugar,3,temple_in_india_5430.jpg,0.087106,False
+Murugar/murugar_5.jpg,Murugar,4,left_flip_temple_in_india_1558.jpg,0.086321,False
+Murugar/murugar_5.jpg,Murugar,5,BrihadisvaraTemple_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28329.jpg.jpg,0.085125,False
+Murugar/murugar_5.jpg,Murugar,6,CholaSculptures_resized_images_south_india2c_tamil_nadu2c_probably_pudokkatai2c_early_chola_dynasty2c_10th_cen_-_vishnu_-_1963.104.2_-_cleveland_museum_of_art.tif.jpg,0.083518,False
+Murugar/murugar_5.jpg,Murugar,7,22799380649_46f079e871_m.jpg,0.082594,False
+Murugar/murugar_5.jpg,Murugar,8,left_flip_CholaSculptures_resized_images_trupuranthakar2c_chola_period2c_mid-12th_century_from_darasuram2c_stone_sculpture2c_thanjavur_palace_museum_28229.jpg.jpg,0.081847,False
+Murugar/murugar_5.jpg,Murugar,9,temple_in_india_10806.jpg,0.08094,False
+Murugar/murugar_5.jpg,Murugar,10,CholaSculptures_resized_images_ganesha2c_southern_india2c_chola_dynasty2c_early_12th_century_ad2c_sandstone_-_c396stasiatiska_museet2c_stockholm_-_dsc09394.jpg.jpg,0.080599,False
+Murugar/murugar_6.jpg,Murugar,1,left_flip_temple_in_india_9_171.jpg,0.093399,False
+Murugar/murugar_6.jpg,Murugar,2,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28529.jpg.jpg,0.089929,False
+Murugar/murugar_6.jpg,Murugar,3,left_flip_temple_in_india_0_138.jpg,0.089812,False
+Murugar/murugar_6.jpg,Murugar,4,right_temple_in_india_6_129.jpg,0.08866,False
+Murugar/murugar_6.jpg,Murugar,5,down_flip_temple_in_india_15527.jpg,0.084456,False
+Murugar/murugar_6.jpg,Murugar,6,down_flip_temple_in_india_5095.jpg,0.083639,False
+Murugar/murugar_6.jpg,Murugar,7,temple_in_india_4239.jpg,0.083019,False
+Murugar/murugar_6.jpg,Murugar,8,down_flip_dravidian_vijayanagara_878.jpg,0.081906,False
+Murugar/murugar_6.jpg,Murugar,9,left_flip_temple_in_india_7_333.jpg,0.081814,False
+Murugar/murugar_6.jpg,Murugar,10,right_temple_in_india_15527.jpg,0.080335,False
+Murugar/murugar_7.jpg,Murugar,1,22538429193_4e95013ed7_m.jpg,0.199887,False
+Murugar/murugar_7.jpg,Murugar,2,temple_in_india_12180.jpg,0.198387,False
+Murugar/murugar_7.jpg,Murugar,3,22850142190_49fc70c640_m.jpg,0.197239,False
+Murugar/murugar_7.jpg,Murugar,4,left_flip_CholaSculptures_resized_images_art_gallery_28tanjore2c_inde29_281390266737729.jpg.jpg,0.196901,False
+Murugar/murugar_7.jpg,Murugar,5,down_temple_in_india_9_383.jpg,0.193198,False
+Murugar/murugar_7.jpg,Murugar,6,20800134881_de13aa5d2d_m.jpg,0.193164,False
+Murugar/murugar_7.jpg,Murugar,7,14534466125_8ea5129c6c_m.jpg,0.192644,False
+Murugar/murugar_7.jpg,Murugar,8,1d52f2b16419efc5125b93cbf248a54b.jpg,0.192494,False
+Murugar/murugar_7.jpg,Murugar,9,CholaSculptures_resized_images_british_museum_asia_11.jpg.jpg,0.192072,False
+Murugar/murugar_7.jpg,Murugar,10,left_flip_CholaSculptures_resized_images_tamil_nadu2c_epoca_cola2c_kali2c_xii_sec_03.jpg.jpg,0.191971,False
+Murugar/murugar_8.jpg,Murugar,1,14534466125_8ea5129c6c_m.jpg,0.186644,False
+Murugar/murugar_8.jpg,Murugar,2,newsit (134).jpg,0.18547,False
+Murugar/murugar_8.jpg,Murugar,3,237558169_d024069f59_m.jpg,0.176613,False
+Murugar/murugar_8.jpg,Murugar,4,053c4f553fbdb95052a77b4d76e56e09.jpg,0.172514,False
+Murugar/murugar_8.jpg,Murugar,5,newstand (114).jpg,0.171553,False
+Murugar/murugar_8.jpg,Murugar,6,10298971663_d240f5832a_m.jpg,0.171485,False
+Murugar/murugar_8.jpg,Murugar,7,newstand (177).jpg,0.171405,False
+Murugar/murugar_8.jpg,Murugar,8,1-detailed-indian-brass-goddess-saraswati-statue-playing-veena-c.jpg,0.170293,False
+Murugar/murugar_8.jpg,Murugar,9,newstand (13).jpg,0.169482,False
+Murugar/murugar_8.jpg,Murugar,10,019bbdd8b898c990905cb111571a1db5.jpg,0.168578,False
+Murugar/murugar_9.jpg,Murugar,1,left_flip_temple_in_india_6727.jpg,0.027443,False
+Murugar/murugar_9.jpg,Murugar,2,left_flip_temple_in_india_9_216.jpg,0.023292,False
+Murugar/murugar_9.jpg,Murugar,3,left_flip_temple_in_india_1908.jpg,0.01549,False
+Murugar/murugar_9.jpg,Murugar,4,left_flip_temple_in_india_11_398.jpg,0.014129,False
+Murugar/murugar_9.jpg,Murugar,5,temple_in_india_9_218.jpg,0.013149,False
+Murugar/murugar_9.jpg,Murugar,6,temple_in_india_11_398.jpg,0.012307,False
+Murugar/murugar_9.jpg,Murugar,7,left_flip_temple_in_india_14932.jpg,0.010006,False
+Murugar/murugar_9.jpg,Murugar,8,left_flip_temple_in_india_16494.jpg,0.009701,False
+Murugar/murugar_9.jpg,Murugar,9,left_flip_temple_in_india_8_176.jpg,0.008618,False
+Murugar/murugar_9.jpg,Murugar,10,temple_in_india_14880.jpg,0.005451,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,1,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.19581,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,2,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_1.jpg.jpg,0.181461,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,3,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_2.jpg.jpg,0.176029,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,4,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.157875,True
+Nadaraja/nadaraja_1.jpg,Nadaraja,5,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.151511,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,6,left_flip_CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_4.jpg.jpg,0.151146,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,7,down_CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.150109,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,8,left_flip_CholaSculptures_resized_images_clevelandart_1930.331.jpg.jpg,0.149905,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,9,down_CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma.jpg.jpg,0.146714,False
+Nadaraja/nadaraja_1.jpg,Nadaraja,10,newstand (115).jpg,0.146326,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,1,down_flip_CholaSculptures_resized_images_shiva_as_lord_of_the_dance_28nataraja29.jpg.jpg,0.241858,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,2,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.230207,True
+Nadaraja/nadaraja_10.jpg,Nadaraja,3,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.230153,True
+Nadaraja/nadaraja_10.jpg,Nadaraja,4,left_flip_CholaSculptures_resized_images_clevelandart_1930.331.jpg.jpg,0.22523,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,5,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.224565,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,6,CholaSculptures_resized_images_shiva_dansant_guimet.jpg.jpg,0.220877,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,7,CholaArchitecture_resized_images_shiva_dansant_guimet.jpg.jpg,0.220877,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,8,down_CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.220489,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,9,down_CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma.jpg.jpg,0.218595,False
+Nadaraja/nadaraja_10.jpg,Nadaraja,10,CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.218568,True
+Nadaraja/nadaraja_11.jpg,Nadaraja,1,newsit (139).jpg,0.177239,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,2,dravidian_south_1442.jpg,0.17619,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,3,newsit (13).jpg,0.174616,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,4,1-detailed-indian-brass-goddess-saraswati-statue-playing-veena-c.jpg,0.167685,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,5,newstand (115).jpg,0.166912,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,6,newsit (14).jpg,0.16604,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,7,newsit (184).jpg,0.16504,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,8,newstand (13).jpg,0.165012,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,9,26475049545_0829695f13_m.jpg,0.164755,False
+Nadaraja/nadaraja_11.jpg,Nadaraja,10,08637ce091814810b2c0a884bfe86f18.jpg,0.162789,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,1,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.165813,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,2,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_1.jpg.jpg,0.162111,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,3,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_2.jpg.jpg,0.162091,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,4,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.155588,True
+Nadaraja/nadaraja_12.jpg,Nadaraja,5,CholaSculptures_resized_images_shiva_dansant_guimet.jpg.jpg,0.149449,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,6,CholaArchitecture_resized_images_shiva_dansant_guimet.jpg.jpg,0.149449,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,7,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.146978,True
+Nadaraja/nadaraja_12.jpg,Nadaraja,8,left_flip_CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_4.jpg.jpg,0.145671,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,9,left_CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_4.jpg.jpg,0.145318,False
+Nadaraja/nadaraja_12.jpg,Nadaraja,10,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.144552,False
+Nadaraja/nadaraja_13.jpg,Nadaraja,1,CholaSculptures_resized_images_nataraja_at_thanjavur_palace_museum_281329.jpg.jpg,0.208888,True
+Nadaraja/nadaraja_13.jpg,Nadaraja,2,down_CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.207556,True
+Nadaraja/nadaraja_13.jpg,Nadaraja,3,left_flip_CholaSculptures_resized_images_nataraja_at_thanjavur_palace_museum_281329.jpg.jpg,0.206678,True
+Nadaraja/nadaraja_13.jpg,Nadaraja,4,down_flip_CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.206092,True
+Nadaraja/nadaraja_13.jpg,Nadaraja,5,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.204444,True
+Nadaraja/nadaraja_13.jpg,Nadaraja,6,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.202991,False
+Nadaraja/nadaraja_13.jpg,Nadaraja,7,CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.202215,True
+Nadaraja/nadaraja_13.jpg,Nadaraja,8,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.201273,True
+Nadaraja/nadaraja_13.jpg,Nadaraja,9,temple_in_india_11_458.jpg,0.19799,False
+Nadaraja/nadaraja_13.jpg,Nadaraja,10,down_flip_temple_in_india_11_458.jpg,0.1975,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,1,newsit (139).jpg,0.208647,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,2,newstand (115).jpg,0.205163,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,3,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.204318,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,4,newsit (178).jpg,0.204013,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,5,newsit (13).jpg,0.202512,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,6,newstand (112).jpg,0.195098,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,7,newsit (125).jpg,0.194972,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,8,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.194752,True
+Nadaraja/nadaraja_14.jpg,Nadaraja,9,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_1.jpg.jpg,0.192575,False
+Nadaraja/nadaraja_14.jpg,Nadaraja,10,newstand (180).jpg,0.191268,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,1,newstand (115).jpg,0.088763,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,2,newsit (178).jpg,0.08847,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,3,newstand (112).jpg,0.087963,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,4,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.084706,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,5,newstand (180).jpg,0.084572,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,6,newsit (139).jpg,0.083969,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,7,newsit (13).jpg,0.07674,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,8,newsit (125).jpg,0.070157,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,9,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_1.jpg.jpg,0.068974,False
+Nadaraja/nadaraja_15.jpg,Nadaraja,10,newsit (175).JPG,0.067342,False
+Nadaraja/nadaraja_2.jpg,Nadaraja,1,down_flip_CholaArchitecture_resized_images_chola_art2cbronze_nataraja_at_swamimalai_art_gallery_-_panoramio.jpg.jpg,0.139416,True
+Nadaraja/nadaraja_2.jpg,Nadaraja,2,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.120364,True
+Nadaraja/nadaraja_2.jpg,Nadaraja,3,left_flip_temple_in_india_5186.jpg,0.106268,False
+Nadaraja/nadaraja_2.jpg,Nadaraja,4,down_CholaSculptures_resized_images_nataraja01.jpg.jpg,0.104207,True
+Nadaraja/nadaraja_2.jpg,Nadaraja,5,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.102887,False
+Nadaraja/nadaraja_2.jpg,Nadaraja,6,down_flip_CholaSculptures_resized_images_shiva_nataraja_museum_rietberg_rvi_501.jpg.jpg,0.102693,True
+Nadaraja/nadaraja_2.jpg,Nadaraja,7,down_CholaSculptures_resized_images_siva_nataraja2c_india2c_tamil_nadu2c_chola_period2c_13th_century_ad2c_bronze_-_linden-museum_-_stuttgart2c_germany_-_dsc03781.jpg.jpg,0.10161,True
+Nadaraja/nadaraja_2.jpg,Nadaraja,8,down_flip_CholaSculptures_resized_images_natarajar_at_chidambaram.jpg.jpg,0.099835,True
+Nadaraja/nadaraja_2.jpg,Nadaraja,9,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.095462,True
+Nadaraja/nadaraja_2.jpg,Nadaraja,10,CholaSculptures_resized_images_shiva_dansant_guimet.jpg.jpg,0.094126,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,1,left_flip_CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,0.191413,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,2,CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,0.188767,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,3,CholaSculptures_resized_images_tamil_nadu2c_shiva_umasahitamurti2c_xiii-xiv_sec.jpg.jpg,0.185847,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,4,1a3d5fd32909a216fd62b722b9dd5345.jpg,0.185399,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,5,18019739314_2961041dc2_m.jpg,0.183323,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,6,CholaSculptures_resized_images_parvati2c_11_-_12th_centuries2c_art_gallery2c_thanjavur.jpg.jpg,0.181265,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,7,dravidian_south_1442.jpg,0.180924,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,8,left_temple_in_india_3570.jpg,0.179544,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,9,CholaSculptures_resized_images_indian_-_festival_image_of_krishna_-_walters_542850.jpg.jpg,0.178761,False
+Nadaraja/nadaraja_3.jpg,Nadaraja,10,newsit (126).jpg,0.178278,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,1,dravidian_south_1442.jpg,0.093093,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,2,18019739314_2961041dc2_m.jpg,0.09191,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,3,newsit (184).jpg,0.091344,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,4,left_flip_temple_in_india_11614.jpg,0.091077,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,5,newstand (174).jpg,0.087632,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,6,newstand (115).jpg,0.086963,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,7,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_2.jpg.jpg,0.083683,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,8,3144764668_37f9dd5517_m.jpg,0.082178,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,9,newstand (114).jpg,0.082141,False
+Nadaraja/nadaraja_4.jpg,Nadaraja,10,newsit (16).jpg,0.081516,False
+Nadaraja/nadaraja_5.jpg,Nadaraja,1,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.187483,True
+Nadaraja/nadaraja_5.jpg,Nadaraja,2,left_flip_temple_in_india_5186.jpg,0.186806,False
+Nadaraja/nadaraja_5.jpg,Nadaraja,3,down_flip_CholaArchitecture_resized_images_chola_art2cbronze_nataraja_at_swamimalai_art_gallery_-_panoramio.jpg.jpg,0.179019,True
+Nadaraja/nadaraja_5.jpg,Nadaraja,4,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.169451,False
+Nadaraja/nadaraja_5.jpg,Nadaraja,5,down_flip_CholaSculptures_resized_images_natarajar_at_chidambaram.jpg.jpg,0.160164,True
+Nadaraja/nadaraja_5.jpg,Nadaraja,6,down_flip_CholaSculptures_resized_images_shiva_nataraja_museum_rietberg_rvi_501.jpg.jpg,0.158022,True
+Nadaraja/nadaraja_5.jpg,Nadaraja,7,down_CholaSculptures_resized_images_nataraja01.jpg.jpg,0.15349,True
+Nadaraja/nadaraja_5.jpg,Nadaraja,8,down_CholaSculptures_resized_images_siva_nataraja2c_india2c_tamil_nadu2c_chola_period2c_13th_century_ad2c_bronze_-_linden-museum_-_stuttgart2c_germany_-_dsc03781.jpg.jpg,0.152367,True
+Nadaraja/nadaraja_5.jpg,Nadaraja,9,down_flip_CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.151926,True
+Nadaraja/nadaraja_5.jpg,Nadaraja,10,left_flip_CholaSculptures_resized_images_delhi_025.jpg.jpg,0.151081,False
+Nadaraja/nadaraja_6.jpg,Nadaraja,1,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.209877,True
+Nadaraja/nadaraja_6.jpg,Nadaraja,2,CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.207826,True
+Nadaraja/nadaraja_6.jpg,Nadaraja,3,left_flip_CholaSculptures_resized_images_clevelandart_1930.331.jpg.jpg,0.203596,False
+Nadaraja/nadaraja_6.jpg,Nadaraja,4,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.20207,True
+Nadaraja/nadaraja_6.jpg,Nadaraja,5,down_flip_CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.194747,True
+Nadaraja/nadaraja_6.jpg,Nadaraja,6,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.194602,False
+Nadaraja/nadaraja_6.jpg,Nadaraja,7,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.193516,False
+Nadaraja/nadaraja_6.jpg,Nadaraja,8,down_CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.192154,True
+Nadaraja/nadaraja_6.jpg,Nadaraja,9,left_flip_CholaSculptures_resized_images_shiva_nataraja_museum_rietberg_rvi_501.jpg.jpg,0.189857,True
+Nadaraja/nadaraja_6.jpg,Nadaraja,10,CholaSculptures_resized_images_shiva_dansant_guimet.jpg.jpg,0.189596,False
+Nadaraja/nadaraja_7.jpg,Nadaraja,1,CholaSculptures_resized_images_shiva_dansant_guimet.jpg.jpg,0.176246,False
+Nadaraja/nadaraja_7.jpg,Nadaraja,2,CholaArchitecture_resized_images_shiva_dansant_guimet.jpg.jpg,0.176246,False
+Nadaraja/nadaraja_7.jpg,Nadaraja,3,CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.173022,True
+Nadaraja/nadaraja_7.jpg,Nadaraja,4,left_flip_CholaSculptures_resized_images_shiva_nataraja_museum_rietberg_rvi_501.jpg.jpg,0.154878,True
+Nadaraja/nadaraja_7.jpg,Nadaraja,5,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.151808,False
+Nadaraja/nadaraja_7.jpg,Nadaraja,6,CholaSculptures_resized_images_10th_century_copper_alloy_sculpture2c_shiva_as_the_lord_of_dance_2.jpg.jpg,0.150618,False
+Nadaraja/nadaraja_7.jpg,Nadaraja,7,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.149409,True
+Nadaraja/nadaraja_7.jpg,Nadaraja,8,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.145303,True
+Nadaraja/nadaraja_7.jpg,Nadaraja,9,CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.145186,True
+Nadaraja/nadaraja_7.jpg,Nadaraja,10,left_flip_CholaSculptures_resized_images_clevelandart_1930.331.jpg.jpg,0.144173,False
+Nadaraja/nadaraja_8.jpg,Nadaraja,1,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.195107,True
+Nadaraja/nadaraja_8.jpg,Nadaraja,2,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.176183,False
+Nadaraja/nadaraja_8.jpg,Nadaraja,3,CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.167141,True
+Nadaraja/nadaraja_8.jpg,Nadaraja,4,left_flip_CholaSculptures_resized_images_delhi_025.jpg.jpg,0.164735,False
+Nadaraja/nadaraja_8.jpg,Nadaraja,5,left_flip_CholaSculptures_resized_images_clevelandart_1930.331.jpg.jpg,0.163925,False
+Nadaraja/nadaraja_8.jpg,Nadaraja,6,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.163867,True
+Nadaraja/nadaraja_8.jpg,Nadaraja,7,left_flip_temple_in_india_5186.jpg,0.163638,False
+Nadaraja/nadaraja_8.jpg,Nadaraja,8,left_flip_CholaSculptures_resized_images_shiva_nataraja_museum_rietberg_rvi_501.jpg.jpg,0.162259,True
+Nadaraja/nadaraja_8.jpg,Nadaraja,9,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.161147,False
+Nadaraja/nadaraja_8.jpg,Nadaraja,10,down_flip_CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.160902,True
+Nadaraja/nadaraja_9.jpg,Nadaraja,1,down_flip_CholaSculptures_resized_images_shiva_as_lord_of_the_dance_28nataraja29.jpg.jpg,0.241858,False
+Nadaraja/nadaraja_9.jpg,Nadaraja,2,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.230207,True
+Nadaraja/nadaraja_9.jpg,Nadaraja,3,down_flip_CholaSculptures_resized_images_shiva_nataraja_musc3a9e_guimet_25971.jpg.jpg,0.230153,True
+Nadaraja/nadaraja_9.jpg,Nadaraja,4,left_flip_CholaSculptures_resized_images_clevelandart_1930.331.jpg.jpg,0.22523,False
+Nadaraja/nadaraja_9.jpg,Nadaraja,5,CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.224565,False
+Nadaraja/nadaraja_9.jpg,Nadaraja,6,CholaSculptures_resized_images_shiva_dansant_guimet.jpg.jpg,0.220877,False
+Nadaraja/nadaraja_9.jpg,Nadaraja,7,CholaArchitecture_resized_images_shiva_dansant_guimet.jpg.jpg,0.220877,False
+Nadaraja/nadaraja_9.jpg,Nadaraja,8,down_CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma_edit.jpg.jpg,0.220489,False
+Nadaraja/nadaraja_9.jpg,Nadaraja,9,down_CholaSculptures_resized_images_shiva_as_the_lord_of_dance_lacma.jpg.jpg,0.218595,False
+Nadaraja/nadaraja_9.jpg,Nadaraja,10,CholaSculptures_resized_images_india_statue_of_nataraja.jpg.jpg,0.218568,True
+Shivan/shivan_1.jpg,Shivan,1,newstand (175).jpg,0.169087,False
+Shivan/shivan_1.jpg,Shivan,2,0dbf5a4550553e58dea141a5458f15bf.jpg,0.163623,False
+Shivan/shivan_1.jpg,Shivan,3,237558169_d024069f59_m.jpg,0.16177,False
+Shivan/shivan_1.jpg,Shivan,4,019bbdd8b898c990905cb111571a1db5.jpg,0.16029,False
+Shivan/shivan_1.jpg,Shivan,5,0bebaa513b416fa712960fe103d5905a.jpg,0.160253,False
+Shivan/shivan_1.jpg,Shivan,6,newsit (128).jpg,0.15997,False
+Shivan/shivan_1.jpg,Shivan,7,newstand (13).jpg,0.159346,False
+Shivan/shivan_1.jpg,Shivan,8,dravidian_south_1442.jpg,0.159055,False
+Shivan/shivan_1.jpg,Shivan,9,newsit (183).jpg,0.158418,False
+Shivan/shivan_1.jpg,Shivan,10,CholaSculptures_resized_images_budda_of_nagapatnam.jpg.jpg,0.157725,False
+Shivan/shivan_10.jpg,Shivan,1,temple_in_india_10806.jpg,0.098129,False
+Shivan/shivan_10.jpg,Shivan,2,left_flip_temple_in_india_10494.jpg,0.09548,False
+Shivan/shivan_10.jpg,Shivan,3,down_flip_Stone_carving_in_Halebeedu.JPG,0.095061,False
+Shivan/shivan_10.jpg,Shivan,4,1f90d6499ab9bac286fbb2ce36db6d3e.jpg,0.089843,False
+Shivan/shivan_10.jpg,Shivan,5,207d008782be892c08ffd792dd562185.jpg,0.08903,False
+Shivan/shivan_10.jpg,Shivan,6,left_flip_Stone_carving_in_Halebeedu.JPG,0.088835,False
+Shivan/shivan_10.jpg,Shivan,7,left_flip_CholaSculptures_resized_images_dakshinamurthi2c_chola_period2c_12th_century2c_government_museum2c_chennai_28229_283745283347129.jpg.jpg,0.088752,False
+Shivan/shivan_10.jpg,Shivan,8,BrihadisvaraTemple_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28329.jpg.jpg,0.088263,True
+Shivan/shivan_10.jpg,Shivan,9,newsit (137).jpg,0.086603,False
+Shivan/shivan_10.jpg,Shivan,10,left_flip_temple_in_india_2081.jpg,0.085994,False
+Shivan/shivan_2.jpg,Shivan,1,0dbf5a4550553e58dea141a5458f15bf.jpg,0.194854,False
+Shivan/shivan_2.jpg,Shivan,2,newsit (100).jpg,0.180171,False
+Shivan/shivan_2.jpg,Shivan,3,22d4fe3f8b4d036930580fcf03a08b89.jpg,0.177546,False
+Shivan/shivan_2.jpg,Shivan,4,newsit (154).jpg,0.174614,False
+Shivan/shivan_2.jpg,Shivan,5,left_VirupakshaTemple_resized_images_group_of_monuments_at_hampi_karnataka-66.jpg.jpg,0.171888,False
+Shivan/shivan_2.jpg,Shivan,6,1d4c675fe232b50f237114633e9774bd.jpg,0.171165,False
+Shivan/shivan_2.jpg,Shivan,7,left_flip_CholaSculptures_resized_images_god_shiva_and_goddess_uma_seated_with_their_son2c_skanda_28somaskanda29.jpg.jpg,0.171009,True
+Shivan/shivan_2.jpg,Shivan,8,1a3d5fd32909a216fd62b722b9dd5345.jpg,0.169827,False
+Shivan/shivan_2.jpg,Shivan,9,newsit (12).jpg,0.169466,False
+Shivan/shivan_2.jpg,Shivan,10,newsit (128).jpg,0.168817,False
+Shivan/shivan_3.jpg,Shivan,1,0dbf5a4550553e58dea141a5458f15bf.jpg,0.179289,False
+Shivan/shivan_3.jpg,Shivan,2,newsit (128).jpg,0.160717,False
+Shivan/shivan_3.jpg,Shivan,3,newsit (159).jpg,0.156414,False
+Shivan/shivan_3.jpg,Shivan,4,1a3d5fd32909a216fd62b722b9dd5345.jpg,0.156168,False
+Shivan/shivan_3.jpg,Shivan,5,019bbdd8b898c990905cb111571a1db5.jpg,0.153793,False
+Shivan/shivan_3.jpg,Shivan,6,22d4fe3f8b4d036930580fcf03a08b89.jpg,0.153321,False
+Shivan/shivan_3.jpg,Shivan,7,053c4f553fbdb95052a77b4d76e56e09.jpg,0.149838,False
+Shivan/shivan_3.jpg,Shivan,8,1e1558aa6556f06c13aaf995681bd4c3.jpg,0.149373,False
+Shivan/shivan_3.jpg,Shivan,9,newsit (108).jpg,0.148399,False
+Shivan/shivan_3.jpg,Shivan,10,newsit (116).jpg,0.147905,False
+Shivan/shivan_4.jpg,Shivan,1,down_dravidian_vijayanagara_672.jpg,0.134823,False
+Shivan/shivan_4.jpg,Shivan,2,down_flip_temple_in_india_1_17.jpg,0.129542,False
+Shivan/shivan_4.jpg,Shivan,3,down_flip_dravidian_vijayanagara_672.jpg,0.128884,False
+Shivan/shivan_4.jpg,Shivan,4,down_VesaraArchitecture_resized_images_12th_century_mahadeva_temple_2c_itagi_2c_karnataka_india_-_130.jpg.jpg,0.123182,False
+Shivan/shivan_4.jpg,Shivan,5,down_NagaraArchitecture_resized_images_12th_century_mahadeva_temple_2c_itagi_2c_karnataka_india_-_130.jpg.jpg,0.123182,False
+Shivan/shivan_4.jpg,Shivan,6,left_flip_temple_in_india_8253.jpg,0.120655,False
+Shivan/shivan_4.jpg,Shivan,7,left_flip_dravidian_kakatiyas_64.jpg,0.120116,False
+Shivan/shivan_4.jpg,Shivan,8,dravidian_kakatiyas_64.jpg,0.118198,False
+Shivan/shivan_4.jpg,Shivan,9,left_flip_DravidaArchitecture_resized_images_11th_century_kurmanatha_swamy_temple2c_srikurmam_andhra_pradesh_07.jpg.jpg,0.117261,False
+Shivan/shivan_4.jpg,Shivan,10,left_flip_DravidaArchitecture_resized_images_sivanandisvara_temples_complex2c_kadamala_kalava2c_andhra_pradesh_india_-_6.jpg.jpg,0.115666,False
+Shivan/shivan_5.jpg,Shivan,1,11_Madanika_at_Chennakeshava_Temple.jpg,0.141534,False
+Shivan/shivan_5.jpg,Shivan,2,newsit (120).jpg,0.126393,False
+Shivan/shivan_5.jpg,Shivan,3,BrihadisvaraTemple_resized_images_thanjavur_-_brihadisvara_temple_281429.jpg.jpg,0.12088,False
+Shivan/shivan_5.jpg,Shivan,4,03_Madanika_at_Chennakeshava_Temple.jpg,0.119092,False
+Shivan/shivan_5.jpg,Shivan,5,down_temple_in_india_9_49.jpg,0.118814,False
+Shivan/shivan_5.jpg,Shivan,6,01_Madanika_at_Chennakeshava_Temple.jpg,0.118451,False
+Shivan/shivan_5.jpg,Shivan,7,left_flip_temple_in_india_9_171.jpg,0.117651,False
+Shivan/shivan_5.jpg,Shivan,8,left_flip_temple_in_india_9_373.jpg,0.117091,False
+Shivan/shivan_5.jpg,Shivan,9,18950423814_8188e6d75f_m.jpg,0.115931,False
+Shivan/shivan_5.jpg,Shivan,10,02_Madanika_at_Chennakeshava_Temple.jpg,0.115873,False
+Shivan/shivan_6.jpg,Shivan,1,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india.jpg.jpg,0.178613,True
+Shivan/shivan_6.jpg,Shivan,2,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28529.jpg.jpg,0.175641,True
+Shivan/shivan_6.jpg,Shivan,3,left_flip_temple_in_india_9667.jpg,0.164745,False
+Shivan/shivan_6.jpg,Shivan,4,newsit (165).jpg,0.159179,False
+Shivan/shivan_6.jpg,Shivan,5,right_temple_in_india_6_129.jpg,0.158245,False
+Shivan/shivan_6.jpg,Shivan,6,right_temple_in_india_15527.jpg,0.156725,False
+Shivan/shivan_6.jpg,Shivan,7,CholaSculptures_resized_images_groupe_de_visiteuses_du_temple_de28099airavateshwara_28darasuram2c_inde29_281407722455429.jpg.jpg,0.153355,False
+Shivan/shivan_6.jpg,Shivan,8,right_temple_in_india_4_166.jpg,0.151782,False
+Shivan/shivan_6.jpg,Shivan,9,left_temple_in_india_9667.jpg,0.150431,False
+Shivan/shivan_6.jpg,Shivan,10,left_flip_temple_in_india_4_166.jpg,0.150089,False
+Shivan/shivan_7.jpg,Shivan,1,newsit (100).jpg,0.092979,False
+Shivan/shivan_7.jpg,Shivan,2,0dbf5a4550553e58dea141a5458f15bf.jpg,0.087808,False
+Shivan/shivan_7.jpg,Shivan,3,left_temple_in_india_9633.jpg,0.083336,False
+Shivan/shivan_7.jpg,Shivan,4,left_flip_BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2812229_283723925239029.jpg.jpg,0.082672,True
+Shivan/shivan_7.jpg,Shivan,5,left_flip_temple_in_india_2825.jpg,0.081994,False
+Shivan/shivan_7.jpg,Shivan,6,temple_in_india_6868.jpg,0.07812,False
+Shivan/shivan_7.jpg,Shivan,7,right_BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2812229_283723925239029.jpg.jpg,0.077502,True
+Shivan/shivan_7.jpg,Shivan,8,newsit (110).jpg,0.074172,False
+Shivan/shivan_7.jpg,Shivan,9,left_flip_temple_in_india_9_95.jpg,0.072864,False
+Shivan/shivan_7.jpg,Shivan,10,left_temple_in_india_6868.jpg,0.072322,False
+Shivan/shivan_8.jpg,Shivan,1,left_temple_in_india_8_431.jpg,0.196773,False
+Shivan/shivan_8.jpg,Shivan,2,left_flip_CholaSculptures_resized_images_shiva_nataraja_delhi_national_museum_ni01-06.jpg.jpg,0.192659,False
+Shivan/shivan_8.jpg,Shivan,3,left_flip_temple_in_india_3439.jpg,0.192305,False
+Shivan/shivan_8.jpg,Shivan,4,right_temple_in_india_8_398.jpg,0.19073,False
+Shivan/shivan_8.jpg,Shivan,5,left_flip_CholaSculptures_resized_images_bronze_sculpt_nmnd-6.jpg.jpg,0.184476,False
+Shivan/shivan_8.jpg,Shivan,6,left_flip_temple_in_india_3103.jpg,0.182601,False
+Shivan/shivan_8.jpg,Shivan,7,temple_in_india_3103.jpg,0.180391,False
+Shivan/shivan_8.jpg,Shivan,8,down_flip_temple_in_india_6_165.jpg,0.180287,False
+Shivan/shivan_8.jpg,Shivan,9,left_flip_temple_in_india_7_240.jpg,0.179422,False
+Shivan/shivan_8.jpg,Shivan,10,down_CholaSculptures_resized_images_nataraja3.jpg.jpg,0.177668,False
+Shivan/shivan_9.jpg,Shivan,1,1f90d6499ab9bac286fbb2ce36db6d3e.jpg,0.195888,False
+Shivan/shivan_9.jpg,Shivan,2,newstand (128).jpg,0.186594,False
+Shivan/shivan_9.jpg,Shivan,3,0bebaa513b416fa712960fe103d5905a.jpg,0.186315,False
+Shivan/shivan_9.jpg,Shivan,4,left_flip_temple_in_india_10494.jpg,0.186002,False
+Shivan/shivan_9.jpg,Shivan,5,207d008782be892c08ffd792dd562185.jpg,0.183806,False
+Shivan/shivan_9.jpg,Shivan,6,1-Bronze-Kali-Seated-With-Arch.jpg,0.181776,False
+Shivan/shivan_9.jpg,Shivan,7,newsit (12).jpg,0.179018,False
+Shivan/shivan_9.jpg,Shivan,8,newsit (178).jpg,0.178052,False
+Shivan/shivan_9.jpg,Shivan,9,newsit (105).jpg,0.176277,False
+Shivan/shivan_9.jpg,Shivan,10,newsit (15).jpg,0.176108,False
+Vishnu/vishnu_1.jpg,Vishnu,1,left_flip_temple_in_india_8488.jpg,0.067422,False
+Vishnu/vishnu_1.jpg,Vishnu,2,left_flip_temple_in_india_3095.jpg,0.056839,False
+Vishnu/vishnu_1.jpg,Vishnu,3,23198594904_a3875c3eb1_m.jpg,0.054927,False
+Vishnu/vishnu_1.jpg,Vishnu,4,dravidian_south_1449.jpg,0.053746,False
+Vishnu/vishnu_1.jpg,Vishnu,5,left_flip_Hoysaleshwara_temple%2C_Halebidu_621.jpg,0.052355,False
+Vishnu/vishnu_1.jpg,Vishnu,6,12th-century_Surya_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg,0.051693,False
+Vishnu/vishnu_1.jpg,Vishnu,7,left_flip_ChennakesavaTemple_resized_images_13th_century_keshava_hindu_temple_somanathpur_india_interior_32.jpg.jpg,0.050301,False
+Vishnu/vishnu_1.jpg,Vishnu,8,dravidian_gangas_19.jpg,0.049947,False
+Vishnu/vishnu_1.jpg,Vishnu,9,Vijaya_before_the_sanctum_ChennakesavaTemple_Belur.jpg,0.04924,False
+Vishnu/vishnu_1.jpg,Vishnu,10,left_flip_Hoysaleshwara_temple%2C_Halebidu_623.jpg,0.048201,False
+Vishnu/vishnu_10.jpg,Vishnu,1,temple_in_india_2115.jpg,0.036399,False
+Vishnu/vishnu_10.jpg,Vishnu,2,left_flip_Kailasanatha_Temple%2C_dedicated_to_Shiva%2C_Pallavve_period%2C_early_7th_century%2C_Kanchipuram_%2827%29_%2836748444944%29.jpg,0.028854,False
+Vishnu/vishnu_10.jpg,Vishnu,3,left_flip_temple_in_india_5657.jpg,0.022611,False
+Vishnu/vishnu_10.jpg,Vishnu,4,Halebid_si0964.jpg,0.020975,False
+Vishnu/vishnu_10.jpg,Vishnu,5,left_flip_temple_in_india_6739.jpg,0.019042,False
+Vishnu/vishnu_10.jpg,Vishnu,6,left_flip_temple_in_india_11993.jpg,0.018758,False
+Vishnu/vishnu_10.jpg,Vishnu,7,temple_in_india_9956.jpg,0.018614,False
+Vishnu/vishnu_10.jpg,Vishnu,8,temple_in_india_2173.jpg,0.018577,False
+Vishnu/vishnu_10.jpg,Vishnu,9,left_flip_Hoysaleshwara_temple%2C_Halebidu_379.jpg,0.018569,False
+Vishnu/vishnu_10.jpg,Vishnu,10,CholaSculptures_resized_images_rajarajesvaram_temple_35.jpg.jpg,0.018225,False
+Vishnu/vishnu_11.jpg,Vishnu,1,down_temple_in_india_1500.jpg,0.074625,False
+Vishnu/vishnu_11.jpg,Vishnu,2,down_flip_temple_in_india_1500.jpg,0.072037,False
+Vishnu/vishnu_11.jpg,Vishnu,3,VesaraArchitecture_resized_images_13th_century_ramappa_temple_2c_rudresvara_2c_palampet_telangana_india_-_177.jpg.jpg,0.05387,False
+Vishnu/vishnu_11.jpg,Vishnu,4,down_flip_Ellora%2C_tempio_kailasanatha_%28grotta_16%29%2C_750-775_dc_ca.%2C_ingresso%2C_rappresentazioni_induiste_07.jpg,0.052768,False
+Vishnu/vishnu_11.jpg,Vishnu,5,down_VesaraArchitecture_resized_images_13th_century_ramappa_temple_2c_rudresvara_2c_palampet_telangana_india_-_178.jpg.jpg,0.051084,False
+Vishnu/vishnu_11.jpg,Vishnu,6,down_flip_Ellora%2C_tempio_kailasanatha_%28grotta_16%29%2C_750-775_dc_ca.%2C_tempio_di_shiva%2C_base_con_elefanti_e_altri_animali_06.jpg,0.050018,False
+Vishnu/vishnu_11.jpg,Vishnu,7,down_flip_VesaraArchitecture_resized_images_13th_century_ramappa_temple_2c_rudresvara_2c_palampet_telangana_india_-_177.jpg.jpg,0.049031,False
+Vishnu/vishnu_11.jpg,Vishnu,8,left_flip_temple_in_india_0_19.jpg,0.047473,False
+Vishnu/vishnu_11.jpg,Vishnu,9,down_flip_CholaArchitecture_resized_images_11th_12th_century_chaya_someshwara_temple2c_panagal_telangana_india_-_5.jpg.jpg,0.046546,False
+Vishnu/vishnu_11.jpg,Vishnu,10,dravidian_pallavas_75.jpg,0.04632,False
+Vishnu/vishnu_12.jpg,Vishnu,1,temple_in_india_15114.jpg,0.063611,False
+Vishnu/vishnu_12.jpg,Vishnu,2,CholaSculptures_resized_images_deity_sculpture_in_srikanteshwara_temple_at_nanjangud_5.jpg.jpg,0.056781,False
+Vishnu/vishnu_12.jpg,Vishnu,3,temple_in_india_2787.jpg,0.053851,False
+Vishnu/vishnu_12.jpg,Vishnu,4,newstand (14).jpg,0.052612,False
+Vishnu/vishnu_12.jpg,Vishnu,5,left_flip_CholaArchitecture_resized_images_deity_sculpture_in_srikanteshwara_temple_at_nanjangud_5.jpg.jpg,0.049391,False
+Vishnu/vishnu_12.jpg,Vishnu,6,left_flip_temple_in_india_11836.jpg,0.046721,False
+Vishnu/vishnu_12.jpg,Vishnu,7,left_flip_temple_in_india_8_192.jpg,0.04558,False
+Vishnu/vishnu_12.jpg,Vishnu,8,down_dravidian_vijayanagara_176.jpg,0.044082,False
+Vishnu/vishnu_12.jpg,Vishnu,9,left_flip_temple_in_india_5918.jpg,0.043465,False
+Vishnu/vishnu_12.jpg,Vishnu,10,left_flip_dravidian_vijayanagara_275.jpg,0.043302,False
+Vishnu/vishnu_13.jpg,Vishnu,1,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india.jpg.jpg,0.092215,False
+Vishnu/vishnu_13.jpg,Vishnu,2,right_temple_in_india_15527.jpg,0.08506,False
+Vishnu/vishnu_13.jpg,Vishnu,3,left_flip_BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2812229_283723925239029.jpg.jpg,0.083959,False
+Vishnu/vishnu_13.jpg,Vishnu,4,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28529.jpg.jpg,0.079633,False
+Vishnu/vishnu_13.jpg,Vishnu,5,1fe187571e1d74b8307243abbe3cdfdf.jpg,0.076654,False
+Vishnu/vishnu_13.jpg,Vishnu,6,right_BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2812229_283723925239029.jpg.jpg,0.076045,False
+Vishnu/vishnu_13.jpg,Vishnu,7,left_flip_BrihadisvaraTemple_resized_images_brihadeeswarar_temple_3506.jpg.jpg,0.075609,False
+Vishnu/vishnu_13.jpg,Vishnu,8,left_flip_temple_in_india_16107.jpg,0.075045,False
+Vishnu/vishnu_13.jpg,Vishnu,9,2439154946_45bffebe06_m.jpg,0.07407,False
+Vishnu/vishnu_13.jpg,Vishnu,10,Hoysaleshwara_temple%2C_Halebidu_668.jpg,0.071765,False
+Vishnu/vishnu_14.jpg,Vishnu,1,left_flip_temple_in_india_5918.jpg,0.07157,False
+Vishnu/vishnu_14.jpg,Vishnu,2,left_flip_temple_in_india_8_192.jpg,0.068321,False
+Vishnu/vishnu_14.jpg,Vishnu,3,newstand (1).jpg,0.068211,False
+Vishnu/vishnu_14.jpg,Vishnu,4,28_Madanika_at_Chennakeshava_Temple.jpg,0.064054,False
+Vishnu/vishnu_14.jpg,Vishnu,5,temple_in_india_9_111.jpg,0.063419,False
+Vishnu/vishnu_14.jpg,Vishnu,6,temple_in_india_9_174.jpg,0.063281,False
+Vishnu/vishnu_14.jpg,Vishnu,7,temple_in_india_9_76.jpg,0.063133,False
+Vishnu/vishnu_14.jpg,Vishnu,8,03_Madanika_at_Chennakeshava_Temple.jpg,0.062996,False
+Vishnu/vishnu_14.jpg,Vishnu,9,temple_in_india_8_187.jpg,0.062992,False
+Vishnu/vishnu_14.jpg,Vishnu,10,newstand (114).jpg,0.062707,False
+Vishnu/vishnu_15.jpg,Vishnu,1,left_flip_temple_in_india_0_138.jpg,0.089614,False
+Vishnu/vishnu_15.jpg,Vishnu,2,Biranchinarayana_Temple.jpg,0.068907,False
+Vishnu/vishnu_15.jpg,Vishnu,3,left_flip_temple_in_india_4024.jpg,0.055058,False
+Vishnu/vishnu_15.jpg,Vishnu,4,down_flip_Hoysaleshwara_temple%2C_Halebidu_668.jpg,0.053953,False
+Vishnu/vishnu_15.jpg,Vishnu,5,left_flip_temple_in_india_9_97.jpg,0.049489,False
+Vishnu/vishnu_15.jpg,Vishnu,6,down_Hoysaleshwara_temple%2C_Halebidu_667.jpg,0.048463,False
+Vishnu/vishnu_15.jpg,Vishnu,7,down_temple_in_india_5918.jpg,0.048434,False
+Vishnu/vishnu_15.jpg,Vishnu,8,left_flip_BrihadisvaraTemple_resized_images_brihadeeswarar_temple_3506.jpg.jpg,0.047563,False
+Vishnu/vishnu_15.jpg,Vishnu,9,temple_in_india_9_335.jpg,0.045749,False
+Vishnu/vishnu_15.jpg,Vishnu,10,left_BrihadisvaraTemple_resized_images_brihadeeswarar_temple_3506.jpg.jpg,0.044533,False
+Vishnu/vishnu_2.jpg,Vishnu,1,left_flip_temple_in_india_220.jpg,0.054153,False
+Vishnu/vishnu_2.jpg,Vishnu,2,left_flip_BrihadisvaraTemple_resized_images_1010_ce_brihadishwara_shiva_temple2c_wall_relief2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india.jpg.jpg,0.052556,False
+Vishnu/vishnu_2.jpg,Vishnu,3,CholaArchitecture_resized_images_vaidyanatha_temples_complex_reliefs_and_inscriptions2c_pushpagiri2c_andhra_pradesh_india_-_8.jpg.jpg,0.05239,False
+Vishnu/vishnu_2.jpg,Vishnu,4,temple_in_india_220.jpg,0.052324,False
+Vishnu/vishnu_2.jpg,Vishnu,5,temple_in_india_9032.jpg,0.051572,False
+Vishnu/vishnu_2.jpg,Vishnu,6,temple_in_india_2521.jpg,0.050992,False
+Vishnu/vishnu_2.jpg,Vishnu,7,CholaArchitecture_resized_images_9th_century_virabhadra_temple_artwork_sanctum_entrance2c_yamuna_goddess_on_turtle2c_biccavolu_andhra_pradesh.jpg.jpg,0.049784,False
+Vishnu/vishnu_2.jpg,Vishnu,8,BrihadisvaraTemple_resized_images_arulmigu_peruvudaiyar_temple_at_gangaikonda_cholapuram_28goddes29.jpg.jpg,0.049545,False
+Vishnu/vishnu_2.jpg,Vishnu,9,left_flip_temple_in_india_2521.jpg,0.049213,False
+Vishnu/vishnu_2.jpg,Vishnu,10,left_flip_temple_in_india_11269.jpg,0.048916,False
+Vishnu/vishnu_3.jpg,Vishnu,1,CholaSculptures_resized_images_murugan2c_chola_period2c_mid-12th_century2c_stone_sculpture2c_thanjavur_palace_museum.jpg.jpg,0.09261,False
+Vishnu/vishnu_3.jpg,Vishnu,2,CholaSculptures_resized_images_british_museum_asia_11.jpg.jpg,0.091353,False
+Vishnu/vishnu_3.jpg,Vishnu,3,CholaSculptures_resized_images_vishnu2c_stone_sculpture2c_thanjavur_palace_museum_28229.jpg.jpg,0.091005,True
+Vishnu/vishnu_3.jpg,Vishnu,4,left_flip_CholaSculptures_resized_images_art_gallery_28tanjore2c_inde29_281390266737729.jpg.jpg,0.08954,False
+Vishnu/vishnu_3.jpg,Vishnu,5,22753586247_3fddc7d13d_m.jpg,0.085442,False
+Vishnu/vishnu_3.jpg,Vishnu,6,22537146594_667611b0c9_m.jpg,0.084782,False
+Vishnu/vishnu_3.jpg,Vishnu,7,CholaSculptures_resized_images_tamil_nadu2c_vishnu_28incompiuto292c_xii-xiii_sec.jpg.jpg,0.083217,True
+Vishnu/vishnu_3.jpg,Vishnu,8,22771094307_74b6c8916f_m.jpg,0.083174,False
+Vishnu/vishnu_3.jpg,Vishnu,9,CholaArchitecture_resized_images_vaidyanatha_temples_complex_reliefs_and_inscriptions2c_pushpagiri2c_andhra_pradesh_india_-_10.jpg.jpg,0.081589,False
+Vishnu/vishnu_3.jpg,Vishnu,10,temple_in_india_16043.jpg,0.080202,False
+Vishnu/vishnu_4.jpg,Vishnu,1,down_flip_temple_in_india_15527.jpg,0.159267,False
+Vishnu/vishnu_4.jpg,Vishnu,2,newsit (106).jpg,0.150229,False
+Vishnu/vishnu_4.jpg,Vishnu,3,temple_in_india_6868.jpg,0.148893,False
+Vishnu/vishnu_4.jpg,Vishnu,4,left_flip_CholaSculptures_resized_images_1010_ce_brihadishwara_shiva_temple2c_statue2c_built_by_rajaraja_i2c_thanjavur_tamil_nadu_india_28529.jpg.jpg,0.147542,False
+Vishnu/vishnu_4.jpg,Vishnu,5,right_temple_in_india_15527.jpg,0.147459,False
+Vishnu/vishnu_4.jpg,Vishnu,6,left_flip_temple_in_india_3216.jpg,0.144254,False
+Vishnu/vishnu_4.jpg,Vishnu,7,right_temple_in_india_6_129.jpg,0.141748,False
+Vishnu/vishnu_4.jpg,Vishnu,8,left_flip_BrihadisvaraTemple_resized_images_brihadeeswarar_temple_3506.jpg.jpg,0.140778,False
+Vishnu/vishnu_4.jpg,Vishnu,9,temple_in_india_4239.jpg,0.139566,False
+Vishnu/vishnu_4.jpg,Vishnu,10,left_flip_BrihadisvaraTemple_resized_images_brihadishwara_temple2c_dedicated_to_shiva2c_built_by_rajaraja_i2c_completed_in_10102c_thanjavur_2812229_283723925239029.jpg.jpg,0.139085,False
+Vishnu/vishnu_5.jpg,Vishnu,1,temple_in_india_11323.jpg,0.1013,False
+Vishnu/vishnu_5.jpg,Vishnu,2,28_Madanika_at_Chennakeshava_Temple.jpg,0.069462,False
+Vishnu/vishnu_5.jpg,Vishnu,3,left_flip_temple_in_india_15815.jpg,0.067516,False
+Vishnu/vishnu_5.jpg,Vishnu,4,03_Madanika_at_Chennakeshava_Temple.jpg,0.06648,False
+Vishnu/vishnu_5.jpg,Vishnu,5,left_flip_Relief_sculptures_of_Nataraja_%28l%29_and_Parvati_%28r%29_from_the_Hoysala_period_at_the_ASI_museum_in_Halebidu.JPG,0.065981,False
+Vishnu/vishnu_5.jpg,Vishnu,6,left_flip_12th-century_Shiva_with_Parvati_in_lap_and_a_musician_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg,0.06537,False
+Vishnu/vishnu_5.jpg,Vishnu,7,Hoysalesvara_Temple-Halebid_-karnataka-DSC_8215.jpg,0.062864,False
+Vishnu/vishnu_5.jpg,Vishnu,8,left_flip_Relief_sculptures_of_Brahma_%28l%29_and_Saraswati_%28r%29_from_the_Hoysala_period_at_the_ASI_museum_in_Halebidu.JPG,0.062319,False
+Vishnu/vishnu_5.jpg,Vishnu,9,CholaSculptures_resized_images_deity_sculpture_in_srikanteshwara_temple_at_nanjangud_2.jpg.jpg,0.062108,False
+Vishnu/vishnu_5.jpg,Vishnu,10,30_Madanika_at_Chennakeshava_Temple.jpg,0.062048,False
+Vishnu/vishnu_6.jpg,Vishnu,1,left_flip_temple_in_india_15622.jpg,-0.020664,False
+Vishnu/vishnu_6.jpg,Vishnu,2,left_flip_dravidian_vijayanagara_252.jpg,-0.029641,False
+Vishnu/vishnu_6.jpg,Vishnu,3,newstand (148).jpg,-0.030306,False
+Vishnu/vishnu_6.jpg,Vishnu,4,temple_in_india_9_300.jpg,-0.030982,False
+Vishnu/vishnu_6.jpg,Vishnu,5,left_flip_temple_in_india_9_238.jpg,-0.031091,False
+Vishnu/vishnu_6.jpg,Vishnu,6,16321167254_4b48268d78_m.jpg,-0.032491,False
+Vishnu/vishnu_6.jpg,Vishnu,7,dravidian_badami_192.jpg,-0.032877,False
+Vishnu/vishnu_6.jpg,Vishnu,8,10873507014_d77c603dbf_m.jpg,-0.033105,False
+Vishnu/vishnu_6.jpg,Vishnu,9,dravidian_gangas_7.jpg,-0.033137,False
+Vishnu/vishnu_6.jpg,Vishnu,10,17654269288_19ac241652_m.jpg,-0.033428,False
+Vishnu/vishnu_7.jpg,Vishnu,1,temple_in_india_11323.jpg,0.1013,False
+Vishnu/vishnu_7.jpg,Vishnu,2,28_Madanika_at_Chennakeshava_Temple.jpg,0.069462,False
+Vishnu/vishnu_7.jpg,Vishnu,3,left_flip_temple_in_india_15815.jpg,0.067516,False
+Vishnu/vishnu_7.jpg,Vishnu,4,03_Madanika_at_Chennakeshava_Temple.jpg,0.06648,False
+Vishnu/vishnu_7.jpg,Vishnu,5,left_flip_Relief_sculptures_of_Nataraja_%28l%29_and_Parvati_%28r%29_from_the_Hoysala_period_at_the_ASI_museum_in_Halebidu.JPG,0.065981,False
+Vishnu/vishnu_7.jpg,Vishnu,6,left_flip_12th-century_Shiva_with_Parvati_in_lap_and_a_musician_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg,0.06537,False
+Vishnu/vishnu_7.jpg,Vishnu,7,Hoysalesvara_Temple-Halebid_-karnataka-DSC_8215.jpg,0.062864,False
+Vishnu/vishnu_7.jpg,Vishnu,8,left_flip_Relief_sculptures_of_Brahma_%28l%29_and_Saraswati_%28r%29_from_the_Hoysala_period_at_the_ASI_museum_in_Halebidu.JPG,0.062319,False
+Vishnu/vishnu_7.jpg,Vishnu,9,CholaSculptures_resized_images_deity_sculpture_in_srikanteshwara_temple_at_nanjangud_2.jpg.jpg,0.062108,False
+Vishnu/vishnu_7.jpg,Vishnu,10,30_Madanika_at_Chennakeshava_Temple.jpg,0.062048,False
+Vishnu/vishnu_8.jpg,Vishnu,1,left_flip_temple_in_india_16790.jpg,0.10751,False
+Vishnu/vishnu_8.jpg,Vishnu,2,left_flip_DravidaArchitecture_resized_images_8th_century_reliefs_at_virupaksha_temple2c_pattadakal_hindu_monuments_karnataka_9.jpg.jpg,0.107307,False
+Vishnu/vishnu_8.jpg,Vishnu,3,left_flip_CholaArchitecture_resized_images_9th_century_nakkula_temple2c_biccavolu_andhra_pradesh_-_10.jpg.jpg,0.106346,False
+Vishnu/vishnu_8.jpg,Vishnu,4,temple_in_india_16790.jpg,0.103336,False
+Vishnu/vishnu_8.jpg,Vishnu,5,temple_in_india_392.jpg,0.103311,False
+Vishnu/vishnu_8.jpg,Vishnu,6,CholaArchitecture_resized_images_10th_to_15th_century_chennakesava_temples_reliefs_and_inscriptions2c_pushpagiri2c_andhra_pradesh_india_-_3.jpg.jpg,0.102912,False
+Vishnu/vishnu_8.jpg,Vishnu,7,VirupakshaTemple_resized_images_pattadakal_si1495.jpg.jpg,0.100936,False
+Vishnu/vishnu_8.jpg,Vishnu,8,temple_in_india_12593.jpg,0.099752,False
+Vishnu/vishnu_8.jpg,Vishnu,9,CholaArchitecture_resized_images_9th_century_nakkula_temple2c_biccavolu_andhra_pradesh_-_16.jpg.jpg,0.099106,False
+Vishnu/vishnu_8.jpg,Vishnu,10,left_flip_temple_in_india_12315.jpg,0.096989,False
+Vishnu/vishnu_9.jpg,Vishnu,1,temple_in_india_126.jpg,0.078834,False
+Vishnu/vishnu_9.jpg,Vishnu,2,28767121142_efdeb0aa27_m.jpg,0.071317,False
+Vishnu/vishnu_9.jpg,Vishnu,3,Gajpati.jpg,0.070215,False
+Vishnu/vishnu_9.jpg,Vishnu,4,left_flip_CholaSculptures_resized_images_ceiling_relief_sculpture_in_the_arakeshwara_temple_at_hole_alur_5.jpg.jpg,0.06603,False
+Vishnu/vishnu_9.jpg,Vishnu,5,left_flip_temple_in_india_15219.jpg,0.065874,False
+Vishnu/vishnu_9.jpg,Vishnu,6,temple_in_india_3125.jpg,0.0649,False
+Vishnu/vishnu_9.jpg,Vishnu,7,down_flip_ChennakesavaTemple_resized_images_12th-century_sculpture_at_belur_hindu_temple2c_woman_watching_herself_in_a_mirror.jpg.jpg,0.064812,False
+Vishnu/vishnu_9.jpg,Vishnu,8,CholaArchitecture_resized_images_relief_of_uma_and_maheshvara_in_ramalingeshwara_group_of_temples_at_avani.jpg.jpg,0.064745,False
+Vishnu/vishnu_9.jpg,Vishnu,9,26207338970_a3986717c3_m.jpg,0.063457,False
+Vishnu/vishnu_9.jpg,Vishnu,10,Hoysaleshwara_temple%2C_Halebidu_977.jpg,0.063414,False

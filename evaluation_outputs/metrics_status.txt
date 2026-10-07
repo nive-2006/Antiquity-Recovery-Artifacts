@@ -1,0 +1,1 @@
+Classification metrics were not calculated because reliable reference-image class labels were unavailable.

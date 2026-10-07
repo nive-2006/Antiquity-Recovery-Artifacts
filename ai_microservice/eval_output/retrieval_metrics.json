@@ -1,0 +1,16 @@
+{
+  "reference_database_size": 20399,
+  "test_queries_count": 200,
+  "evaluation_type": "Verified Ground-Truth Retrieval Pairs",
+  "Recall@1": 7.5,
+  "Recall@5": 21.5,
+  "Recall@10": 29.0,
+  "Precision@1": 7.5,
+  "Precision@5": 4.3,
+  "Precision@10": 2.9,
+  "mAP@1": 7.5,
+  "mAP@5": 12.99,
+  "mAP@10": 13.93,
+  "MRR": 13.93,
+  "evaluation_time_seconds": 1.45
+}

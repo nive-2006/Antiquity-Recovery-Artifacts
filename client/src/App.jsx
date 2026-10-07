@@ -48,6 +48,7 @@ function App() {
               <Route path="/register" element={<Register />} />
               <Route path="/pending-approval" element={<PendingApproval />} />
               <Route path="/search" element={<GlobalSearch />} />
+              <Route path="/registry" element={<GlobalSearch />} />
               <Route path="/detector" element={<ArtifactDetector />} />
               <Route path="/artifacts/:id" element={<ArtifactProfile />} />
 

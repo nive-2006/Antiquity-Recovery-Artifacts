@@ -1,17 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import StatusBadge from './StatusBadge';
+import HeritageArtifactImage from './HeritageArtifactImage';
 import { MapPin, Layers, ChevronRight } from 'lucide-react';
 
 const ArtifactCard = ({ artifact }) => {
-  const primaryImage = artifact.images && artifact.images.length > 0 ? artifact.images[0].url : 'https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?auto=format&fit=crop&w=800&q=80';
-
   return (
     <div className="bg-white border border-slate-200 hover:border-blue-300 rounded-2xl overflow-hidden shadow-xs hover:shadow-md transition-all duration-300 flex flex-col group">
       <div className="relative h-48 overflow-hidden bg-slate-100">
-        <img
-          src={primaryImage}
-          alt={artifact.name}
+        <HeritageArtifactImage
+          artifact={artifact}
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
         />
         <div className="absolute top-3 right-3">

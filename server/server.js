@@ -27,6 +27,7 @@ app.use('/artifacts/detect', require('./routes/artifactDetection'));
 app.use('/artifacts', require('./routes/artifacts'));
 app.use('/recovered', require('./routes/recovered'));
 app.use('/cases', require('./routes/cases'));
+app.use('/api/cases', require('./routes/cases'));
 app.use('/stats', require('./routes/stats'));
 app.use('/api/heritage', require('./routes/heritage'));
 
